@@ -16,7 +16,12 @@ export default function PromptingGuide() {
   useEffect(() => {
     const loadGuide = async () => {
       try {
-        const res = await fetch('/markdown/prompting-guide.md');
+        // Get the base URL dynamically based on deployment environment
+        const baseUrl = window.location.pathname.includes('/ChatGPT-Free-Prompt-List') 
+          ? '/ChatGPT-Free-Prompt-List/' 
+          : '/';
+        
+        const res = await fetch(`${baseUrl}markdown/prompting-guide.md`);
         const text = await res.text();
         setContent(text);
       } catch (err) {
