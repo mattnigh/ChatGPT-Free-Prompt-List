@@ -1,0 +1,10 @@
+---
+title: Workflow Best Practices Review
+description: Review GitHub Actions workflows to suggest improvements for caching, job separation, and conditionals.
+tags:
+  - review
+  - optimization
+  - workflow
+category: Development
+---
+Can you review this GitHub Actions YAML and suggest any best practices I'm missing — like caching, job separation, or conditionals? 

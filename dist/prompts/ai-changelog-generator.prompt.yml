@@ -1,0 +1,10 @@
+---
+title: AI Changelog Generator
+description: Generate semantic versioning style changelog entries automatically using OpenAI to analyze pull requests.
+tags:
+  - ai
+  - workflow
+  - automation
+category: AI Workflows
+---
+"Build a workflow that runs on every merged PR, fetches the PR title + description + changed files, and uses OpenAI to auto-generate a potential changelog entry. Append it to `CHANGELOG.md` in semantic versioning style." 

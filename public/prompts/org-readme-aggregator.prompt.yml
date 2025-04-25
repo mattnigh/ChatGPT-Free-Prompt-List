@@ -1,0 +1,10 @@
+---
+title: Org README Aggregator
+description: Build a GitHub Action that collects README files from multiple repositories and creates a central index.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+Help me build a GitHub Action that scrapes README.md files from all repos in this GitHub org, compiles a summary list of their project descriptions, and commits it to a central index file. 

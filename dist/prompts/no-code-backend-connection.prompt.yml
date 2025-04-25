@@ -1,0 +1,10 @@
+---
+title: No-code Backend Connection
+description: Guide for connecting a React frontend to a no-code backend service with data fetching capabilities.
+tags:
+  - code
+  - prototype
+  - stepwise
+category: Development
+---
+Walk me through connecting this React frontend to a no-code backend like Supabase or Firebase. Show how to: initialize the SDK, create a database table (e.g., 'projects'), and fetch/display data for a logged-in user. 

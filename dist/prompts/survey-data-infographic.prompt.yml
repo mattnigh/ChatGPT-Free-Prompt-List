@@ -1,0 +1,13 @@
+---
+title: Survey Data Infographic
+description: Design an infographic template to visualize survey data using vibrant colors, modern icons and clean typography.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - infographic
+  - visual
+  - professional
+category: Images
+---
+Design an infographic template to visualize survey data (e.g., podcast listening habits). Use vibrant colors, modern icons, and clean typography to present key statistics like listening frequency, devices used, and favorite topics. Ensure the layout is easy to scan, professionally styled, and accessible on both web and mobile. 

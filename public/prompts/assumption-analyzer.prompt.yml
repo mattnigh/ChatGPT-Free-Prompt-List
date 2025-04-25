@@ -1,0 +1,8 @@
+---
+title: Function Assumption Analyzer
+description: Analyze a function for assumptions about inputs, state, or environment that could lead to bugs or brittleness.
+category: Vibe Coding
+tags:
+  - analyze
+---
+Analyze this function: [paste code] and point out any assumptions it's making (e.g., about inputs, state, environment) that could lead to bugs or brittleness. 

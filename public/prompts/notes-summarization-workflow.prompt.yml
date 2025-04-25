@@ -1,0 +1,10 @@
+---
+title: Notes Summarization Workflow
+description: Create a GitHub Action that processes markdown notes and generates concise weekly summaries.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+Generate a GitHub Action that takes markdown notes from a /notes directory, runs them through a summarization model or API, and outputs a weekly-summary.md file with bullet points. 

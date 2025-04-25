@@ -1,0 +1,12 @@
+---
+title: Technical Program Charter Template
+description: Create comprehensive program charters for large-scale technical initiatives with executive and engineering versions
+tags:
+  - template
+  - program
+  - leadership
+  - strategy
+  - planning
+category: Program Management
+---
+Act as an expert TPM with experience launching high-scale backend systems. I'm kicking off a multi-quarter program to unify telemetry across products. Write a first draft of a program charter that includes: purpose, scope, success metrics, stakeholders, and known risks. Make it concise and executive-ready. Generate two versions — one formal for leadership, one more detailed for engineering teams. Use this input: [PASTE HERE: description of the program's intent, timeline, and any existing notes or expectations]. 

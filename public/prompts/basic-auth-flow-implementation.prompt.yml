@@ -1,0 +1,10 @@
+---
+title: Basic Auth Flow Implementation
+description: Implement a complete authentication flow with signup, login, logout, and password reset functionality.
+tags:
+  - scaffold
+  - code
+  - prototype
+category: Development
+---
+Build a basic authentication flow using [choose: Supabase, Firebase Auth, Clerk, or NextAuth]. Include pages and forms for signup, login, logout, and password reset, with simple input validation and redirect logic to a protected dashboard page. 

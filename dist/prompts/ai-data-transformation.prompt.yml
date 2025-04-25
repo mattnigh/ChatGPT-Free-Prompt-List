@@ -1,0 +1,29 @@
+---
+title: AI Data Transformation
+description: Use AI to transform, clean, and structure unorganized data into a usable format.
+tags:
+  - ai
+  - data
+  - clean
+category: AI Workflows
+---
+"I have a dataset containing [describe data: e.g., customer feedback, product specifications, transaction records] that needs to be transformed into a structured format for analysis.
+
+Current format:
+[Describe or show example of current format]
+
+Desired format:
+[Describe or show example of desired format]
+
+Specific challenges:
+- [Challenge 1, e.g., inconsistent formatting]
+- [Challenge 2, e.g., missing values]
+- [Challenge 3, e.g., text that needs categorization]
+
+How can I use AI to:
+1. Clean and standardize this data
+2. Extract the relevant information
+3. Structure it according to my requirements
+4. Identify and handle edge cases or anomalies
+
+Please provide both conceptual approach and practical examples I could implement." 

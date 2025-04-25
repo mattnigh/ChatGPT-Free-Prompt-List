@@ -1,0 +1,10 @@
+---
+title: Microservices Orchestration Scaling Strategies
+description: Research how companies manage microservices at scale through service meshes, including investment triggers and tool choices.
+tags:
+  - research
+  - architecture
+  - cloud
+category: Deep Research
+---
+Gather strategies from companies that scaled microservices to the point of needing service mesh or orchestration. What led to those investments? What were the challenges (e.g., observability, security, latency), and which tools did they adopt (Istio, Linkerd, Consul)? 

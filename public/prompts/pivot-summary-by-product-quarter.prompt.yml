@@ -1,0 +1,10 @@
+---
+title: Pivot Summary by Product & Quarter
+description: Create a pivot-style summary from a spreadsheet showing total revenue by product and by quarter.
+tags:
+  - summary
+  - analyze
+  - validate
+category: Analysis/Data
+---
+Create a pivot-style summary from this spreadsheet showing total revenue by product, by quarter. [PASTE HERE: dataset with product, revenue, and date columns.] 

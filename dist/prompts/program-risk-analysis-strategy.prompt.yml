@@ -1,0 +1,12 @@
+---
+title: Program Risk Analysis Strategy
+description: A comprehensive risk identification and mitigation planning tool for cross-functional technical programs
+tags:
+  - risks
+  - strategy
+  - program
+  - template
+  - leadership
+category: Program Management
+---
+Act as a cross-functional program analyst and risk strategist. This initiative spans infrastructure, security, and product. Identify 5 program-level risks and assign each a potential mitigation tactic. Organize them in a table: Risk, Impact, Owner, Mitigation. Write with precision for a senior engineering audience. Provide two sets: one focused on delivery risks, another on strategic alignment risks. Use the following context to guide your analysis: [PASTE HERE: short description of the initiative, participating teams, and goals]. 

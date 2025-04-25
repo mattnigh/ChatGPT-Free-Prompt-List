@@ -1,0 +1,10 @@
+---
+title: Pseudocode to Runnable Code
+description: Convert sketchy pseudocode or logic into functional, runnable code in a specified language or environment.
+tags:
+  - code
+  - prototype
+  - shortcut
+category: Development
+---
+Turn this quick sketch: (paste sketchy pseudocode or logic) into runnable code, assuming I want it to work in (language or environment). 

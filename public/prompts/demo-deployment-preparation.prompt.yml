@@ -1,0 +1,10 @@
+---
+title: Demo Deployment Preparation
+description: Prepare a prototype for deployment with proper environment setup, documentation, and sharing capabilities.
+tags:
+  - prototype
+  - scaffold
+  - stepwise
+category: Development
+---
+Prepare this prototype for demo deployment using Vercel or Netlify. Set up environment variables (e.g., for API keys), add a README.md with setup instructions, and generate a shareable link with a temporary subdomain like my-saas-demo.vercel.app. 

@@ -1,0 +1,12 @@
+---
+title: Variable Flow Tracer
+description: Track how variables move and transform through a codebase from declaration to consumption
+tags:
+  - code
+  - analyze
+  - explain
+  - debug
+  - architecture
+category: Development
+---
+Act as a developer trying to trace how a value moves through the system. Follow this variable from where it's declared to where it's consumed, and explain each transformation along the way. Use this context: [PASTE HERE: a function, plus any related files]. 

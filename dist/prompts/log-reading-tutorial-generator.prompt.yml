@@ -1,0 +1,12 @@
+---
+title: Log Reading Tutorial Generator
+description: Create beginner-friendly explanations of log format, structure, and meaning
+tags:
+  - explain
+  - logs
+  - tutorial
+  - learning
+  - onboarding
+category: Development
+---
+Act as a developer advocate helping someone new understand how to read this log. Break it down line by line, explaining the timestamp, level, service name, and key message. Be concise, clear, and educational. Work from this: [PASTE HERE: sample structured log or error output]. 

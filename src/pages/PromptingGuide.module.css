@@ -1,0 +1,170 @@
+.guideHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 1.5rem;
+  background: linear-gradient(to right, rgba(59, 130, 246, 0.1), rgba(139, 92, 246, 0.1));
+  border-radius: 0.75rem;
+  margin-bottom: 2.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.05);
+}
+
+.guideContent h2 {
+  font-size: 1.75rem;
+  color: #3b82f6;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(59, 130, 246, 0.2);
+}
+
+:global(.concept-card) {
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin-bottom: 1.75rem;
+  position: relative;
+  transition: transform 0.2s, box-shadow 0.2s;
+  overflow: hidden;
+}
+
+:global(.concept-card:hover) {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+:global(.concept-card.core-principles) {
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid #3b82f6;
+}
+
+:global(.concept-card.advanced) {
+  background: rgba(139, 92, 246, 0.1);
+  border-left: 4px solid #8b5cf6;
+}
+
+:global(.concept-card.pitfalls) {
+  background: rgba(239, 68, 68, 0.1);
+  border-left: 4px solid #ef4444;
+}
+
+:global(.concept-card h3) {
+  margin-top: 0.5rem !important;
+  color: inherit;
+}
+
+:global(.icon-container) {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+}
+
+:global(.example-comparison) {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 3rem 0;
+}
+
+@media (min-width: 768px) {
+  :global(.example-comparison) {
+    flex-direction: row;
+  }
+}
+
+:global(.example) {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  flex: 1;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+:global(.example-header) {
+  padding: 0.75rem 1rem;
+}
+
+:global(.example.weak .example-header) {
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+:global(.example.strong .example-header) {
+  background-color: rgba(34, 197, 94, 0.1);
+}
+
+:global(.example-badge) {
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+}
+
+:global(.example-badge.weak) {
+  background-color: #ef4444;
+  color: white;
+}
+
+:global(.example-badge.strong) {
+  background-color: #22c55e;
+  color: white;
+}
+
+:global(.example-content) {
+  padding: 1.25rem 1rem;
+  background-color: rgba(243, 244, 246, 0.7);
+  font-family: monospace;
+}
+
+:global(.dark .example-content) {
+  background-color: rgba(31, 41, 55, 0.7);
+}
+
+:global(.resources-section) {
+  background-color: rgba(243, 244, 246, 0.7);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+:global(.dark .resources-section) {
+  background-color: rgba(31, 41, 55, 0.7);
+}
+
+:global(.guideContainer), /* fallback to ensure Box styling works if needed */
+.guideContainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.guideContent {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.mainContent {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 1.5rem;
+}
+
+.loadingContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.sectionHeading {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.subHeading {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+} 

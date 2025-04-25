@@ -1,0 +1,10 @@
+---
+title: CLI Rebuild Exploration
+description: Draft an exploratory blog post discussing the decision process for rebuilding an internal CLI tool.
+tags:
+  - clarity
+  - takeaway
+  - style
+category: Writing
+---
+Write a blog post about how I'm thinking through whether to rebuild our internal CLI tool. I want it to sound exploratory, surface pros and cons, and invite input from others in similar roles. 

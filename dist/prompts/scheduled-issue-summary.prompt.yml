@@ -1,0 +1,10 @@
+---
+title: Scheduled Issue Summary
+description: Create a GitHub Action that regularly collects labeled issues and generates a markdown summary.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+Create a GitHub Action that runs on a schedule (every morning) and pulls the latest issues with a specific label from this repo. Format them into a markdown summary and commit it to status.md in the repo. 

@@ -1,0 +1,10 @@
+---
+title: Tailwind Design System
+description: Define a consistent design system with Tailwind CSS that can be applied across an entire application.
+tags:
+  - code
+  - professional
+  - style
+category: Development
+---
+Create a basic design system using Tailwind. Define base spacing (e.g., padding, margin), font sizes, heading styles, and standard button styles. Apply these consistently across the landing page, dashboard, and settings pages. 

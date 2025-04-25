@@ -1,0 +1,10 @@
+---
+title: Dashboard Mock Data Generator
+description: Generate realistic mock data for a SaaS dashboard including projects, logs, and metrics.
+tags:
+  - mock
+  - scaffold
+  - prototype
+category: Development
+---
+Generate mock data for a SaaS dashboard — for example, fake projects, recent activity logs, and user metrics. Insert them into the UI using hardcoded arrays or a local JSON file so I can demo the app without a backend. 

@@ -1,0 +1,12 @@
+---
+title: Leadership Data Narrative Simplifier
+description: Transform complex data into clear, jargon-free narratives for leadership consumption
+tags:
+  - storytelling
+  - clarity
+  - leadership
+  - summary
+  - insights
+category: Analysis/Data
+---
+Act as a narrative-focused AI assistant for internal reporting. Turn this complex data into a written update suitable for leadership. Use no jargon, explain assumptions clearly, and include visual metaphors where helpful. Start with this: [PASTE HERE: output from internal analytics dashboard, SQL query results, or weekly metric report]. 

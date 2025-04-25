@@ -1,0 +1,10 @@
+---
+title: Repo Metrics Analyzer
+description: Create a GitHub Action that runs custom analysis scripts and stores repository metrics as structured data.
+tags:
+  - workflow
+  - automation
+  - code
+category: Development
+---
+Write a GitHub Action that runs a custom script (analyze.js) that outputs metrics about the repo (e.g., file sizes, line counts, contributor stats), and commits the result as a JSON or CSV file to the repo. 

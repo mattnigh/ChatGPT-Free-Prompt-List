@@ -1,0 +1,10 @@
+---
+title: Code Expectation Explainer
+description: Analyze code to explain what it should do, what it's actually doing, and how to fix it in plain language.
+tags:
+  - explain
+  - error
+  - troubleshoot
+category: Vibe Coding
+---
+This code isn't doing what I expected: (paste code). Can you tell me what it *should* do, what it's actually doing, and how to fix it in plain English? 

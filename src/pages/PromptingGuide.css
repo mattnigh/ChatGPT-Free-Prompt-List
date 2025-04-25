@@ -1,0 +1,467 @@
+/* Add horizontal padding to the markdown content */
+.markdown-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Apple-inspired typography for light mode */
+:root .light-mode .markdown-content h1,
+.light-mode .markdown-content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #1d1d1f; /* Apple-style near-black for highest contrast */
+}
+
+:root .light-mode .markdown-content h2,
+.light-mode .markdown-content h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e2e8f0;
+  color: #1d1d1f; /* Consistent heading color */
+}
+
+:root .light-mode .markdown-content h3,
+.light-mode .markdown-content h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #1d1d1f; /* Consistent heading color */
+}
+
+:root .light-mode .markdown-content p,
+.light-mode .markdown-content p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  color: #333336; /* Dark gray for comfortable reading */
+}
+
+:root .light-mode .markdown-content a,
+.light-mode .markdown-content a {
+  color: #0066CC; /* Apple-style blue for links */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+:root .light-mode .markdown-content a:hover,
+.light-mode .markdown-content a:hover {
+  text-decoration: underline;
+}
+
+:root .light-mode .markdown-content ul, 
+:root .light-mode .markdown-content ol,
+.light-mode .markdown-content ul, 
+.light-mode .markdown-content ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  color: #333336; /* Match paragraph text */
+}
+
+:root .light-mode .markdown-content li,
+.light-mode .markdown-content li {
+  margin-bottom: 0.5rem;
+  color: #333336; /* Match paragraph text */
+}
+
+:root .light-mode .markdown-content blockquote,
+.light-mode .markdown-content blockquote {
+  border-left: 4px solid #86868b; /* Apple secondary color */
+  padding-left: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+  font-style: italic;
+  color: #494949; /* Slightly lighter but still high contrast */
+}
+
+:root .light-mode .markdown-content code,
+.light-mode .markdown-content code {
+  background-color: #f5f5f7; /* Apple light gray background */
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+  font-size: 0.875rem;
+  color: #0066CC; /* Apple blue for code */
+}
+
+:root .light-mode .markdown-content pre,
+.light-mode .markdown-content pre {
+  background-color: #f5f5f7;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+:root .light-mode .markdown-content pre code,
+.light-mode .markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+  color: #0066CC;
+}
+
+:root .light-mode .markdown-content .table-of-contents,
+.light-mode .markdown-content .table-of-contents {
+  background-color: #f8fafc;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+:root .light-mode .markdown-content .table-of-contents h4,
+.light-mode .markdown-content .table-of-contents h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  color: #1d1d1f;
+}
+
+:root .light-mode .markdown-content .tip,
+.light-mode .markdown-content .tip {
+  background-color: #dbeafe;
+  border-left: 4px solid #3b82f6;
+  padding: 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+:root .light-mode .markdown-content hr,
+.light-mode .markdown-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #cbd5e0, transparent);
+  margin: 2rem 0;
+}
+
+/* Dark mode styles - explicitly scoped to dark-mode class */
+:root .dark-mode .markdown-content h1,
+.dark-mode .markdown-content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #60a5fa; /* Lighter blue for dark mode h1 */
+}
+
+:root .dark-mode .markdown-content h2,
+.dark-mode .markdown-content h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #334155;
+  color: #a78bfa; /* Lighter purple for dark mode h2 */
+}
+
+:root .dark-mode .markdown-content h3,
+.dark-mode .markdown-content h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #f472b6; /* Lighter pink for dark mode h3 */
+}
+
+:root .dark-mode .markdown-content p,
+.dark-mode .markdown-content p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  color: #cbd5e0; /* Light gray for paragraph text in dark mode */
+}
+
+:root .dark-mode .markdown-content a,
+.dark-mode .markdown-content a {
+  color: #60a5fa; /* Lighter blue for links in dark mode */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+:root .dark-mode .markdown-content a:hover,
+.dark-mode .markdown-content a:hover {
+  text-decoration: underline;
+}
+
+:root .dark-mode .markdown-content ul, 
+:root .dark-mode .markdown-content ol,
+.dark-mode .markdown-content ul, 
+.dark-mode .markdown-content ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  color: #cbd5e0;
+}
+
+:root .dark-mode .markdown-content li,
+.dark-mode .markdown-content li {
+  margin-bottom: 0.5rem;
+  color: #cbd5e0;
+}
+
+:root .dark-mode .markdown-content blockquote,
+.dark-mode .markdown-content blockquote {
+  border-left: 4px solid #4b5563;
+  padding-left: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+  font-style: italic;
+  color: #9ca3af;
+}
+
+:root .dark-mode .markdown-content code,
+.dark-mode .markdown-content code {
+  background-color: #1e293b;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+  font-size: 0.875rem;
+  color: #60a5fa;
+}
+
+:root .dark-mode .markdown-content pre,
+.dark-mode .markdown-content pre {
+  background-color: #1e293b;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+  color: #e2e8f0;
+}
+
+:root .dark-mode .markdown-content pre code,
+.dark-mode .markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+  color: #e2e8f0;
+}
+
+:root .dark-mode .markdown-content .table-of-contents,
+.dark-mode .markdown-content .table-of-contents {
+  background-color: #1e293b;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  color: #e2e8f0;
+}
+
+:root .dark-mode .markdown-content .table-of-contents h4,
+.dark-mode .markdown-content .table-of-contents h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  color: #e2e8f0;
+}
+
+:root .dark-mode .markdown-content .tip,
+.dark-mode .markdown-content .tip {
+  background-color: rgba(59, 130, 246, 0.2);
+  border-left: 4px solid #3b82f6;
+  padding: 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+:root .dark-mode .markdown-content hr,
+.dark-mode .markdown-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #4b5563, transparent);
+  margin: 2rem 0;
+}
+
+/* Custom classes for the prompting guide - common styles */
+.concept-card {
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.concept-card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* More specific styling for concept cards in light and dark mode */
+:root .light-mode .concept-card,
+.light-mode .concept-card {
+  background-color: #f8fafc;
+}
+
+:root .dark-mode .concept-card,
+.dark-mode .concept-card {
+  background-color: #1e293b;
+}
+
+/* For media queries as fallback */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light-mode) .markdown-content h1 {
+    color: #60a5fa;
+  }
+  
+  :root:not(.light-mode) .markdown-content h2 {
+    color: #a78bfa;
+    border-bottom-color: #334155;
+  }
+  
+  :root:not(.light-mode) .markdown-content h3 {
+    color: #f472b6;
+  }
+  
+  :root:not(.light-mode) .markdown-content p {
+    color: #cbd5e0;
+  }
+}
+
+/* Custom classes for the prompting guide */
+.core-principles {
+  border-left: 4px solid #4299e1;
+}
+
+.advanced-techniques {
+  border-left: 4px solid #f6ad55;
+}
+
+.crispe-framework {
+  border-left: 4px solid #68d391;
+}
+
+.common-pitfalls {
+  border-left: 4px solid #fc8181;
+}
+
+.example {
+  border-left: 4px solid #b794f4;
+}
+
+.refinement-techniques {
+  border-left: 4px solid #76e4f7;
+}
+
+.resources {
+  border-left: 4px solid #9ae6b4;
+}
+
+.example-comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.example-weak, .example-strong {
+  padding: 1rem;
+  border-radius: 0.375rem;
+}
+
+.example-weak {
+  background-color: #fed7d7;
+  border: 1px solid #fc8181;
+}
+
+.example-strong {
+  background-color: #c6f6d5;
+  border: 1px solid #68d391;
+}
+
+@media (max-width: 768px) {
+  .example-comparison {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Enhance code blocks with syntax highlighting colors */
+.markdown-content pre {
+  background-color: #1e293b;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+.markdown-content pre code {
+  color: #e2e8f0;
+  background-color: transparent;
+}
+
+/* Syntax highlighting */
+.markdown-content .hljs-keyword {
+  color: #93c5fd;
+}
+
+.markdown-content .hljs-string {
+  color: #86efac;
+}
+
+.markdown-content .hljs-comment {
+  color: #94a3b8;
+}
+
+/* Enhance horizontal rules */
+.markdown-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #cbd5e0, transparent);
+  margin: 2rem 0;
+}
+
+/* Add a tip callout style */
+.markdown-content .tip {
+  background-color: #dbeafe;
+  border-left: 4px solid #3b82f6;
+  padding: 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.markdown-content .tip strong:first-child {
+  color: #1d4ed8;
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .markdown-content .table-of-contents {
+    background-color: #1e293b;
+    color: #e2e8f0;
+  }
+  
+  .markdown-content .table-of-contents h4 {
+    color: #e2e8f0;
+  }
+  
+  .markdown-content .tip {
+    background-color: rgba(59, 130, 246, 0.2);
+  }
+  
+  .markdown-content code {
+    background-color: #1e293b;
+    color: #e2e8f0;
+  }
+
+  /* Header colors for dark mode */
+  .markdown-content h1 {
+    color: #60a5fa;
+  }
+
+  .markdown-content h2 {
+    color: #a78bfa;
+    border-bottom-color: #334155;
+  }
+
+  .markdown-content h3 {
+    color: #f472b6;
+  }
+
+  .markdown-content p {
+    color: #cbd5e0;
+  }
+} 

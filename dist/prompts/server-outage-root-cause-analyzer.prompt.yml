@@ -1,0 +1,12 @@
+---
+title: Server Outage Root Cause Analyzer
+description: Identify the root cause of server outages from logs and suggest monitoring improvements
+tags:
+  - troubleshoot
+  - analyze
+  - error
+  - logs
+  - monitoring
+category: Development
+---
+Act as a senior developer and incident responder. You're reviewing server logs after an unexpected outage. Identify the root cause, affected systems, and likely trigger. Suggest what could be added to logging or monitoring to catch this sooner next time. Use this log excerpt: [PASTE HERE: server log or relevant trace output]. 

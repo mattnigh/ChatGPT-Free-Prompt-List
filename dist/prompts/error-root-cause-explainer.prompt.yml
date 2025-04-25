@@ -1,0 +1,8 @@
+---
+title: Error Root Cause Explainer
+description: Walk through possible root causes for an error, explain what it means, and show how to fix it.
+category: Vibe Coding
+tags:
+  - troubleshoot
+---
+I'm getting this error: [paste error message]. Can you walk me through possible root causes step by step, explain what the error means, and show how to fix it? 

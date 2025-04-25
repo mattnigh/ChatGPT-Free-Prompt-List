@@ -1,0 +1,10 @@
+---
+title: Modern Form Builder
+description: Create a clean, modern form with specified inputs and client-side validation.
+tags:
+  - code
+  - scaffold
+  - validate
+category: Vibe Coding
+---
+Build a clean, modern form with inputs for (list of fields), and include basic client-side validation using (framework or vanilla JS). 

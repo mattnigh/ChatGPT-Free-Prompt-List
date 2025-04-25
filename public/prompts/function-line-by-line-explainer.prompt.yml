@@ -1,0 +1,12 @@
+---
+title: Function Line-by-Line Explainer
+description: Break down code functions with detailed line-by-line explanations for developer onboarding
+tags:
+  - explain
+  - code
+  - onboarding
+  - tutorial
+  - learning
+category: Development
+---
+Act as a code explainer onboarding a new developer. Break down this function line by line. For each line, explain what it does and why it might be necessary. Format as: Line → Explanation. Work from this snippet: [PASTE HERE: one function or method]. 

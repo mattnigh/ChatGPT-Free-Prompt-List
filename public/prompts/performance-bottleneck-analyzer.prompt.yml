@@ -1,0 +1,12 @@
+---
+title: Performance Bottleneck Analyzer
+description: Identify potential performance issues in code and suggest optimization alternatives
+tags:
+  - performance
+  - analyze
+  - code
+  - optimization
+  - review
+category: Development
+---
+Act as a performance-focused engineer. Review this function and identify any potential bottlenecks — whether it's due to nested loops, database queries, large I/O, etc. Suggest alternatives where relevant. Code to analyze: [PASTE HERE: a performance-sensitive function or handler]. 

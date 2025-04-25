@@ -1,0 +1,10 @@
+---
+title: Excel Cleaning, Dedup, Format & Validate
+description: Clean an Excel file by removing duplicate rows, standardizing date formats, and flagging missing or inconsistent data.
+tags:
+  - clean
+  - deduplicate
+  - validate
+category: Analysis/Data
+---
+Clean this Excel file by removing duplicate rows, standardizing date formats, and flagging any missing or inconsistent data. [PASTE HERE: raw data snippet or describe the structure and common issues.] 

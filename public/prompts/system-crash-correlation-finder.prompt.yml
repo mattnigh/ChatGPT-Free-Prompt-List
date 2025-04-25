@@ -1,0 +1,12 @@
+---
+title: System Crash Correlation Finder
+description: Identify connections between resource usage metrics and application crashes
+tags:
+  - troubleshoot
+  - performance
+  - analyze
+  - monitoring
+  - logs
+category: Development
+---
+Act as a site reliability engineer reviewing crash logs and system resource metrics. Find correlations between CPU/memory usage spikes and app behavior. Return your findings as bullet points: what correlates, what doesn't, and what to monitor. Analyze the following: [PASTE HERE: log output + resource usage over time]. 

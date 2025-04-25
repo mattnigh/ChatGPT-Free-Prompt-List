@@ -1,0 +1,10 @@
+---
+title: PR Diff Summarizer AI
+description: Use OpenAI to generate human-readable summaries of pull request changes as PR comments.
+tags:
+  - ai
+  - workflow
+  - automation
+category: AI Workflows
+---
+"Create a GitHub Action that uses OpenAI's API to summarize the diff of every pull request. Output a concise summary as a comment on the PR, highlighting what's been added, removed, or changed in plain English." 

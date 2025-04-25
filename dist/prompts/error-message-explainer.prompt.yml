@@ -1,0 +1,9 @@
+---
+title: Error Message Explainer
+description: Explain an error message, its stack origin, and how to resolve it for someone unfamiliar with the error.
+category: Vibe Coding
+tags:
+  - explain
+  - error
+---
+Here’s an error message I don’t understand: [paste error]. Can you explain what it means, what part of the stack it’s coming from, and how to resolve it — assume I’m not familar at all with this error 

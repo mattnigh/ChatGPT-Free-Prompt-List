@@ -1,0 +1,10 @@
+---
+title: Build Artifact Packager
+description: Create a GitHub Action that compresses build output and uploads it as a uniquely named artifact.
+tags:
+  - workflow
+  - cd
+  - automation
+category: Development
+---
+Create a GitHub Action that zips up a specific directory (/dist or /build) after a successful CI run and uploads it as a build artifact. Name it using the commit SHA and timestamp. 

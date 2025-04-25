@@ -1,0 +1,13 @@
+---
+title: YouTube Thumbnail Showdown
+description: Create a bold and colorful YouTube thumbnail featuring a competitive or humorous showdown with dynamic poses and contrasting elements.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - style
+  - blog
+  - humor
+category: Images
+---
+Create a bold and colorful YouTube thumbnail template featuring a competitive or humorous showdown. Use dynamic poses, vibrant colors, and contrasting characters or props (e.g., one person struggling and one succeeding) to emphasize the theme. Include attention-grabbing text in bold fonts and relevant background elements for context. 

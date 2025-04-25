@@ -1,0 +1,10 @@
+---
+title: Accessibility Enhancements
+description: Improve component accessibility with ARIA labels, keyboard navigation, and WCAG compliance.
+tags:
+  - review
+  - code
+  - clarity
+category: Vibe Coding
+---
+Make this component more accessible — add ARIA labels, keyboard navigation, and anything else needed to meet WCAG standards. 

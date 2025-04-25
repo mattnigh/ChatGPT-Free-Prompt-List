@@ -1,0 +1,10 @@
+---
+title: Scheduled Slack Notification
+description: Create a GitHub Action that runs on a schedule and sends notifications to Slack.
+tags:
+  - workflow
+  - automation
+  - security
+category: Development
+---
+Set up a scheduled GitHub Action that runs every Monday at 8am UTC and posts a message to Slack via a webhook. Show me where to add the secret securely. 

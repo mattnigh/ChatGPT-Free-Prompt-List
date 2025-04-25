@@ -1,0 +1,10 @@
+---
+title: AI Engineering Workflow Integration Ideas
+description: Identify high-impact, low-risk opportunities to integrate AI assistants into existing engineering workflows.
+tags:
+  - ai
+  - tools
+  - productivity
+category: Brainstorming
+---
+We're introducing more AI into engineering workflows. Brainstorm 5 high-impact, low-risk places where a lightweight AI assistant could help (e.g., summarizing PRs, test scaffolding, writing commit messages). Focus on ideas that add value without requiring large behavioral changes. 

@@ -1,0 +1,12 @@
+---
+title: Code History Analyzer
+description: Reconstruct the history and evolution of code by examining patterns, comments, and structure
+tags:
+  - code
+  - analyze
+  - review
+  - architecture
+  - refactor
+category: Development
+---
+Act as a code historian. Based on the code comments, naming, and structure, infer what this code might have originally been written for, and whether it's still doing that. Point out any legacy patterns or dead code. Use this file: [PASTE HERE: source file or class]. 

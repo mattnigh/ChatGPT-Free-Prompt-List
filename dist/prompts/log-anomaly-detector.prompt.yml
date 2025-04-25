@@ -1,0 +1,12 @@
+---
+title: Log Anomaly Detector
+description: Identify rare or unexpected log messages and propose severity-based tagging for future filtering
+tags:
+  - logs
+  - analyze
+  - troubleshoot
+  - observability
+  - monitoring
+category: Development
+---
+Act as a senior engineer reviewing logs to proactively tag anomalies. Highlight any rare or unexpected log messages, and propose tags that could be used for future filtering. Label the severity of each anomaly (info/warn/error/critical). Analyze this: [PASTE HERE: service logs from recent runs]. 

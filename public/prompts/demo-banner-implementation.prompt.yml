@@ -1,0 +1,10 @@
+---
+title: Demo Banner Implementation
+description: Add a banner to indicate prototype status while maintaining good design principles.
+tags:
+  - code
+  - shortcut
+  - prototype
+category: Development
+---
+Insert a banner at the top of every page that says 'This is a demo prototype – data will not be saved.' Style it clearly but unobtrusively (e.g., light yellow background, dark text, closeable). 

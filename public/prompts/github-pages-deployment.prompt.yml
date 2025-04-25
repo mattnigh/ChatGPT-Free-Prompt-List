@@ -1,0 +1,10 @@
+---
+title: GitHub Pages Deployment
+description: Create a GitHub Action to build and deploy a static site to GitHub Pages.
+tags:
+  - workflow
+  - cd
+  - code
+category: Development
+---
+Write a GitHub Action that deploys my static site to GitHub Pages. Assume it's built with a tool like Vite or Create React App and the build folder is dist/. 

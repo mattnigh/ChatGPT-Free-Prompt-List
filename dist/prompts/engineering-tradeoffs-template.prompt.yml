@@ -1,0 +1,10 @@
+---
+title: Engineering Tradeoffs Template
+description: Create a reusable blog post structure for describing engineering tradeoff decisions and lessons learned.
+tags:
+  - template
+  - clarity
+  - takeaway
+category: Writing
+---
+Give me a reusable blog post structure for writing about engineering tradeoffs, with sections like 'Context,' 'The Options,' 'What We Chose,' and 'What We'd Do Differently Next Time.' 

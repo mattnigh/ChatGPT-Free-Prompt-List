@@ -1,0 +1,12 @@
+---
+title: Technical Program Retrospective Template
+description: Create structured, insightful retrospectives for technical initiatives with actionable lessons learned
+tags:
+  - reflection
+  - template
+  - program
+  - learning
+  - teamwork
+category: Program Management
+---
+Act as a TPM writing a retrospective for a recently completed technical initiative. The project was delivered on time but revealed gaps in triage tooling and stakeholder alignment. Draft a retrospective report with sections: Goals, Wins, Challenges, Lessons Learned, Next Steps. Use a professional and constructive tone. Generate two versions: one full-length for docs, one short for email. Use this initiative summary: [PASTE HERE: high-level project summary, key outcomes, and any documented challenges]. 

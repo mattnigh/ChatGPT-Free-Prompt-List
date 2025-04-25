@@ -1,0 +1,12 @@
+---
+title: Code Dependency Analyzer
+description: Identify upstream and downstream dependencies of a module within a complex system
+tags:
+  - architecture
+  - code
+  - analyze
+  - review
+  - documentation
+category: Development
+---
+Act as a backend engineer reading a system with lots of cross-dependencies. Identify what services or files this one depends on, and what depends on it. Output format: Imports, Exports, Upstream, Downstream. Use this code: [PASTE HERE: a module or service config]. 

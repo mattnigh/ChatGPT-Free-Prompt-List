@@ -1,0 +1,10 @@
+---
+title: AI Config Validator
+description: Use OpenAI to scan configuration files and suggest missing environment variables or settings.
+tags:
+  - ai
+  - workflow
+  - config
+category: AI Workflows
+---
+"Write a GitHub Action that uses OpenAI to scan all `.env.example`, `.config`, or `.yaml` files in the repo and suggest if any environment variables or settings are missing based on best practices." 

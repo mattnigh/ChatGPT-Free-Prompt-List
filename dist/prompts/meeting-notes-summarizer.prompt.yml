@@ -1,0 +1,10 @@
+---
+title: Meeting Notes Summarizer
+description: Create a GitHub Action that uses GPT to generate concise summaries of meeting notes.
+tags:
+  - ai
+  - workflow
+  - summary
+category: AI Workflows
+---
+"Write a GitHub Action that reads a `meeting-notes.md` file from the repo, sends the content to OpenAI's GPT model, and returns a TL;DR summary. Output the summary into a new file called `summary.md` in the same folder." 

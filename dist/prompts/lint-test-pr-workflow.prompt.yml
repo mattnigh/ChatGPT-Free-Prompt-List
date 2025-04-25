@@ -1,0 +1,10 @@
+---
+title: Lint Test PR Workflow
+description: Create a GitHub Action that automatically runs linting and tests whenever a pull request is opened or updated.
+tags:
+  - workflow
+  - ci
+  - code
+category: Development
+---
+I want an Action that runs npm run lint and npm test whenever a pull request is opened or updated. Can you write that and explain how it works? 

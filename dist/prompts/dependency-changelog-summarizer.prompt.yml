@@ -1,0 +1,10 @@
+---
+title: Dependency Changelog Summarizer
+description: Create a GitHub Action that watches for dependency updates and posts changelog summaries to pull requests.
+tags:
+  - workflow
+  - automation
+  - summary
+category: Development
+---
+Make a GitHub Action that watches for dependency updates, runs a script that summarizes the changelogs of updated packages, and posts the summary to the pull request as a comment. 

@@ -1,0 +1,10 @@
+---
+title: CLI Tool Starter Code
+description: Generate starter code for a command-line interface tool that performs a specific task.
+tags:
+  - code
+  - prototype
+  - scaffold
+category: Development
+---
+Give me starter code for a CLI tool that does this: (describe task) using (language). 

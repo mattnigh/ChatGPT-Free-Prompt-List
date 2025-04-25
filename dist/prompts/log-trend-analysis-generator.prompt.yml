@@ -1,0 +1,12 @@
+---
+title: Log Trend Analysis Generator
+description: Detect and visualize error trends from timestamped logs for proactive monitoring
+tags:
+  - logs
+  - trends
+  - analyze
+  - monitoring
+  - visualization
+category: Development
+---
+Act as a DevOps engineer preparing for log-based trend detection. Review this log file and extract any recurring errors that have increased in frequency over the last N hours. Return a trend chart summary with tags for each growing error. Here's the data: [PASTE HERE: logs with timestamps]. 

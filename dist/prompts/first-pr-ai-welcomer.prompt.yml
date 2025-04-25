@@ -1,0 +1,10 @@
+---
+title: First PR AI Welcomer
+description: Use OpenAI to generate personalized welcome comments for first-time contributors.
+tags:
+  - ai
+  - workflow
+  - automation
+category: AI Workflows
+---
+"Make a GitHub Action that posts a motivational or witty comment (using OpenAI to generate it) whenever someone opens their first pull request in the repo. Pull their GitHub username and include it in the message." 

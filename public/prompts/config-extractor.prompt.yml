@@ -1,0 +1,11 @@
+---
+title: Config Option Extractor
+description: Extract key configuration options from a YAML or JSON file and explain what each does.
+category: documentation
+tags:
+  - config
+  - yaml
+  - json
+  - explanation
+---
+Extract the key configuration options from this YAML/JSON file and explain what each does. 

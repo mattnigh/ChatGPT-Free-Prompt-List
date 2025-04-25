@@ -1,0 +1,8 @@
+---
+title: Remove Corrupted Rows
+description: Flag and remove rows that are clearly corrupted, contain only nulls or nonsense data.
+category: Data/Analysis
+tags:
+  - clean
+---
+Flag and remove rows that are clearly corrupted, contain only nulls or nonsense data. 

@@ -1,0 +1,10 @@
+---
+title: Internal Developer Platforms Build vs Buy Analysis
+description: Evaluate tradeoffs between building custom internal developer platforms versus adopting existing solutions, with case studies.
+tags:
+  - research
+  - platform
+  - tradeoffs
+category: Deep Research
+---
+I want to evaluate build vs buy tradeoffs for internal developer platforms. Gather research or write-ups from companies who built their own IDPs (e.g., Spotify Backstage, Airbnb Dev Portal), including why they did it, long-term costs, and internal adoption patterns. 

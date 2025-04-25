@@ -1,0 +1,10 @@
+---
+title: User Settings Page React
+description: Build a complete user settings page with editable fields, validation, and confirmation toasts.
+tags:
+  - code
+  - prototype
+  - scaffold
+category: Development
+---
+Build a user settings page using React. Include editable fields for name, email, and password. When a user updates their info, show a confirmation toast. Add simple validation (e.g., email format) and disable the save button unless there are changes. 

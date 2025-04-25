@@ -1,0 +1,10 @@
+---
+title: Dashboard Export Summarizer
+description: Transform technical dashboard exports into stakeholder-friendly summaries with clear sections and next steps
+tags:
+  - summary
+  - dashboard
+  - metrics
+category: Analysis/Data
+---
+Act as a dashboard summarizer. I want to convert this dashboard export into something a stakeholder could read. Organize it into sections: Metrics Overview, Notable Changes, and Potential Next Steps. Work from this: [PASTE HERE: JSON export or tabular data from monitoring/BI tool]. 

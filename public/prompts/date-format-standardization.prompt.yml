@@ -1,0 +1,8 @@
+---
+title: Date Format Standardization
+description: Convert all dates in a column to a single consistent format (e.g., ISO 8601).
+category: Analysis/Data
+tags:
+  - format
+---
+This column contains dates in mixed formats. Convert all of them to a single consistent format (e.g., ISO 8601). 

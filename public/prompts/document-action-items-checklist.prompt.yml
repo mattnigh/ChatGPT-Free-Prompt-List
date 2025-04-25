@@ -1,0 +1,10 @@
+---
+title: Document Action Items Checklist
+description: Extract all action items, decisions made, and follow-ups from documents, formatting them into a checklist with owner names if available.
+tags:
+  - checklist
+  - documentation
+  - summary
+category: Documentation
+---
+Extract all action items, decisions made, and follow-ups from these documents. Format them into a checklist with owner names (if available). [PASTE HERE: meeting notes, standup logs, or planning docs.] 

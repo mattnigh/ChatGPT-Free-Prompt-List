@@ -1,0 +1,10 @@
+---
+title: Code vs Intent Analyzer
+description: Compare intended functionality against actual code to identify missing or incorrect implementations.
+tags:
+  - review
+  - code
+  - troubleshoot
+category: Vibe Coding
+---
+Here's what I *wanted* this code to do: (describe your goal). Can you compare that to the code and tell me if anything is missing or backward? 

@@ -1,0 +1,10 @@
+---
+title: Basic CRUD Flow Generator
+description: Generate code for a complete CRUD (Create, Read, Update, Delete) flow for a specific data model.
+tags:
+  - code
+  - scaffold
+  - pipeline
+category: Development
+---
+Write a basic CRUD flow for this data model: (paste model or describe it) using (your framework of choice). 

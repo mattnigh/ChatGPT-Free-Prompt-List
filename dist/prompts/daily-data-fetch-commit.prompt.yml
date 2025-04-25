@@ -1,0 +1,10 @@
+---
+title: Daily Data Fetch Commit
+description: Set up a GitHub Action that automatically fetches data from an API and commits the results daily.
+tags:
+  - workflow
+  - automation
+  - code
+category: Development
+---
+I want to run a script in my repo once a day that fetches data from an API and commits the updated results to the repo. Can you help me write that GitHub Action and the script? 

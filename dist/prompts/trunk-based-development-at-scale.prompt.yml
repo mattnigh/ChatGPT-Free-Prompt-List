@@ -1,0 +1,10 @@
+---
+title: Trunk-Based Development at Scale
+description: Examine the evolution of trunk-based development in large organizations, including tooling requirements and cultural adaptations.
+tags:
+  - research
+  - architecture
+  - tools
+category: Deep Research
+---
+Summarize the evolution of trunk-based development in large orgs. Who uses it at scale today (e.g., Google, Shopify)? What supporting tooling is required (e.g., merge queues, test orchestration)? What cultural or process shifts are necessary? 

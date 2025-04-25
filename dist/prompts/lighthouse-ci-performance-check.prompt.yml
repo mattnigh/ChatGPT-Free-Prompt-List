@@ -1,0 +1,10 @@
+---
+title: Lighthouse CI Performance Check
+description: Set up a GitHub Action that uses Lighthouse CI to test performance and accessibility metrics.
+tags:
+  - workflow
+  - ci
+  - automation
+category: Development
+---
+Generate a GitHub Action that runs Lighthouse CI against my deployed site and fails the build if performance or accessibility drops below a certain score. 

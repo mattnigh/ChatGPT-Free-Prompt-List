@@ -1,0 +1,10 @@
+---
+title: Code Change Comparison
+description: Compare current and previous code versions to identify changes that caused problems.
+tags:
+  - troubleshoot
+  - error
+  - review
+category: Vibe Coding
+---
+I changed something and now it's broken. Can you compare the current code to the earlier version and show what changed that caused the problem? 

@@ -1,0 +1,10 @@
+---
+title: Simple Test Workflow
+description: Set up a GitHub Action that automatically runs tests when code is pushed to the main branch.
+tags:
+  - workflow
+  - ci
+  - code
+category: Development
+---
+I want to set up a GitHub Action that runs tests whenever I push to the `main` branch. Can you write a simple YAML workflow using `[e.g., Node.js, Python, etc.]` that installs dependencies and runs tests? 

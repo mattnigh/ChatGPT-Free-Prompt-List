@@ -1,0 +1,10 @@
+---
+title: Strategic Reviewer Feedback
+description: Act as a strategic reviewer and provide feedback on what's missing, unclear, and what questions a skeptical reader would ask.
+tags:
+  - analysis
+  - summary
+  - documentation
+category: Documentation
+---
+"Act as a strategic reviewer. Read this doc and tell me: 1) what's missing, 2) what's unclear, and 3) what questions a skeptical reader would ask. [PASTE HERE: roadmap, product spec, or decision doc.]" 

@@ -1,0 +1,10 @@
+---
+title: AI Narrative Activity Digest
+description: Transform repository activity data into engaging narrative-style updates using OpenAI.
+tags:
+  - ai
+  - workflow
+  - markdown
+category: AI Workflows
+---
+"Generate a GitHub Action that fetches recent activity from a GitHub repo using the REST API (commits, PRs, issues), sends the data to OpenAI to generate a narrative-style update, and commits the story to `activity-digest.md`." 

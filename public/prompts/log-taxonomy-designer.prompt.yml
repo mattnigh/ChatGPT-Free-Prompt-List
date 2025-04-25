@@ -1,0 +1,12 @@
+---
+title: Log Taxonomy Designer
+description: Create a comprehensive tagging schema for service logs to improve searchability and organization
+tags:
+  - logs
+  - taxonomy
+  - observability
+  - best-practices
+  - structure
+category: Development
+---
+Act as a developer designing log taxonomy for better searchability. Propose a tagging schema that covers common patterns in this service's output — include base tags (e.g., AUTH, DB, QUEUE), sub-tags, and when they should apply. Based on: [PASTE HERE: log samples from the service]. 

@@ -1,0 +1,12 @@
+---
+title: Incident Signal Identifier
+description: Identify critical log events that signaled an incident and establish rules for future early detection
+tags:
+  - logs
+  - troubleshoot
+  - incident
+  - analyze
+  - monitoring
+category: Development
+---
+Act as an on-call engineer doing postmortem prep. Identify 3–5 critical log events that likely signaled the start of an incident. Tag them as SIGNAL or NOISE. Then suggest a rule to auto-flag these patterns in the future. Work from this: [PASTE HERE: incident logs or timeline output]. 

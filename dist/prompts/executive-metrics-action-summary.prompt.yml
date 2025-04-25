@@ -1,0 +1,12 @@
+---
+title: Executive Metrics Action Summary
+description: Extract key takeaways from metrics data and provide actionable insights for executives
+tags:
+  - summary
+  - actionable
+  - leadership
+  - insights
+  - takeaway
+category: Analysis/Data
+---
+Act as a strategic TPM preparing an executive summary of key metrics. Identify the 3 most important takeaways from this dataset, explain them in plain English, and describe what actions they suggest (if any). Write it in a format suitable for a slide or Slack post. Analyze this dataset: [PASTE HERE: table of KPIs, goals, and historical comparisons]. 

@@ -1,0 +1,10 @@
+---
+title: Quick Storage Setup
+description: Set up quick read/write access to data using localStorage, SQLite, Firebase, or similar storage solutions.
+tags:
+  - code
+  - prototype
+  - shortcut
+category: Development
+---
+I want to test an idea using localStorage / SQLite / Firebase / Supabase — show me the quickest way to set up read/write access to (some data type). 

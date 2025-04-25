@@ -1,0 +1,10 @@
+---
+title: Service Class Skeleton
+description: Generate a skeleton structure for a service or class with a specific core responsibility.
+tags:
+  - code
+  - scaffold
+  - prototype
+category: Development
+---
+Can you write the skeleton of a service or class that handles (core responsibility)? Leave room for me to fill in the details. 

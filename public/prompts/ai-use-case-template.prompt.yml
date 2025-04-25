@@ -1,0 +1,16 @@
+---
+title: AI Workflow Template
+description: Sample template for creating AI workflow prompts.
+tags:
+  - ai
+  - template
+category: AI Workflows
+---
+"I want to use AI for [specific workflow]. My goal is to [describe goal]. I need help with [specific aspects you need help with].
+
+Here are the details of my situation:
+- [Context or background information]
+- [Current challenges or requirements]
+- [Any constraints or limitations]
+
+Can you help me understand how to effectively approach this workflow with AI?" 

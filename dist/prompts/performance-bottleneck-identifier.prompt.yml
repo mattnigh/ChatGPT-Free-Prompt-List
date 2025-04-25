@@ -1,0 +1,12 @@
+---
+title: Performance Bottleneck Identifier
+description: Analyze application trace data to pinpoint slow operations and recommend optimizations
+tags:
+  - performance
+  - analyze
+  - optimization
+  - troubleshoot
+  - instrumentation
+category: Development
+---
+Act as a performance profiler helping a team understand why app response times increased. Use the following trace data to identify slow functions, long DB queries, or cache misses. Recommend areas for instrumentation or optimization. Start here: [PASTE HERE: performance trace, Flamegraph output, or APM data]. 

@@ -1,0 +1,10 @@
+---
+title: Test Package Deploy Workflow
+description: Create a GitHub Action that runs tests, packages the output, and deploys it to a staging server.
+tags:
+  - workflow
+  - ci
+  - cd
+category: Development
+---
+Create a workflow that runs tests, then packages the compiled site into a .zip file, uploads it as an artifact, and also deploys it to a staging server using an SSH deploy step. 

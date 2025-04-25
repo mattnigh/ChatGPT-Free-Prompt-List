@@ -1,0 +1,28 @@
+---
+title: Refactoring Strategy Plan
+description: Generate a comprehensive strategy document for a major codebase refactoring project.
+tags:
+  - strategy
+  - refactor
+  - planning
+category: Development
+---
+I need to create a strategy document for a major codebase refactoring project. Please help me draft this document with the following sections:
+
+1. **Executive Summary**: Brief overview of the refactoring initiative, goals, and expected outcomes.
+
+2. **Current State Assessment**: Analysis of the existing codebase, architecture, and technology stack.
+
+3. **Problems and Pain Points**: Identification of the issues that necessitate refactoring.
+
+4. **Proposed Technical Approach**: Detailed technical strategy including patterns, technologies, and methodologies.
+
+5. **Timeline and Milestones**: Phased approach with key deliverables and checkpoints.
+
+6. **Resource Requirements**: Team composition, skill requirements, and tooling needs.
+
+7. **Risk Assessment**: Potential risks and mitigation strategies.
+
+8. **Success Metrics**: How we'll measure the success of the refactoring project.
+
+For each section, please provide a brief description of what should be included and 2-3 guiding questions that will help me complete it effectively. 

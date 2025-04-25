@@ -1,0 +1,12 @@
+---
+title: Source-to-Documentation Transformer
+description: Convert source code files into comprehensive internal documentation with structured sections
+tags:
+  - documentation
+  - code
+  - explain
+  - tutorial
+  - architecture
+category: Development
+---
+Act as a technical documentation assistant. Turn this source file into internal documentation. Include: module summary, key functions, data structures used, and any known edge cases. Here's the file: [PASTE HERE: full source file or key class]. 

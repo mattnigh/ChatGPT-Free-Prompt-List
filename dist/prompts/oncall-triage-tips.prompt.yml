@@ -1,0 +1,8 @@
+---
+title: On-Call Triage Tips
+description: List the top 3 things to check first in a codebase when paged on-call, and explain why.
+category: Vibe Coding
+tags:
+  - troubleshoot
+---
+Imagine you're on-call and this service just paged you. What would be the top 3 things you'd check first in this codebase, and why? 

@@ -1,0 +1,10 @@
+---
+title: AI Features Implementation Patterns
+description: Research common approaches to implementing AI capabilities in small applications, including model selection and user experience considerations.
+tags:
+  - research
+  - ai
+  - architecture
+category: Deep Research
+---
+I'm thinking about adding AI features like summarization, auto-tagging, or writing assistance. What are the most common implementation patterns in small apps? Include model choices (OpenAI vs open-source), latency tradeoffs, and UI/UX integrations that feel seamless. 

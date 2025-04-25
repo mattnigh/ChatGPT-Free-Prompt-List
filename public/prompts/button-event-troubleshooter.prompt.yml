@@ -1,0 +1,10 @@
+---
+title: Button Event Troubleshooter
+description: Debug button click events by checking event bindings and function calls.
+tags:
+  - troubleshoot
+  - error
+  - review
+category: Vibe Coding
+---
+Nothing is happening when I click this button. Can you check if it's wired up correctly, and if the function it calls is working? 

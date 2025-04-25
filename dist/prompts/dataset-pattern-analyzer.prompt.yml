@@ -1,0 +1,11 @@
+---
+title: Dataset Pattern Analyzer
+description: Review datasets to identify key trends, unexpected behaviors, and follow-up questions in plain language
+tags:
+  - analyze
+  - insights
+  - summary
+  - takeaway
+category: Analysis/Data
+---
+Act as a technical analyst. Review this dataset and explain the most important patterns and outliers in plain English. Organize your output into: (1) Key Trends, (2) Unexpected Behavior, (3) Questions We Should Ask Next. Use this data: [PASTE HERE: raw table, JSON object, CSV content, or metric excerpt]. 

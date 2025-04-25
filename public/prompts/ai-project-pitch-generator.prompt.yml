@@ -1,0 +1,10 @@
+---
+title: AI Project Pitch Generator
+description: Automatically generate concise project elevator pitches from README changes using OpenAI.
+tags:
+  - ai
+  - workflow
+  - summary
+category: AI Workflows
+---
+"Help me build a GitHub Action that watches for new `README.md` changes and uses OpenAI to generate a short project elevator pitch in plain language. Save the pitch as `one-liner.txt` in the root." 

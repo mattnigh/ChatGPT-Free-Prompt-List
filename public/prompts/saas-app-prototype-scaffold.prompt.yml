@@ -1,0 +1,10 @@
+---
+title: SaaS App Prototype Scaffold
+description: Generate a basic project scaffold for a SaaS application with frontend, backend, and essential pages.
+tags:
+  - prototype
+  - scaffold
+  - code
+category: Development
+---
+I want to prototype a SaaS app that does [brief description of functionality, e.g., 'helps remote teams track daily standups']. Can you generate a basic project scaffold with a front end (React or Next.js), minimal backend (Node.js/Express or Next.js API routes), and file structure that includes pages for login, dashboard, and settings? 

@@ -1,0 +1,10 @@
+---
+title: Docs Quality Reviewer
+description: Automatically review documentation for grammar, tone, and clarity using OpenAI when changes are made.
+tags:
+  - ai
+  - workflow
+  - review
+category: AI Workflows
+---
+"Write a GitHub Action that monitors the `/docs` folder. If a markdown file is changed, send the new version to OpenAI and ask it to review for grammar, tone, and clarity. Post suggestions as a pull request comment." 

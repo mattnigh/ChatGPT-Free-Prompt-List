@@ -1,0 +1,10 @@
+---
+title: Monorepo vs Polyrepo Tradeoffs for Scale
+description: Analyze the tradeoffs between monorepos and polyrepos for large engineering organizations, with tooling considerations and migration case studies.
+tags:
+  - research
+  - architecture
+  - tradeoffs
+category: Deep Research
+---
+I want to understand the tradeoffs between monorepos and polyrepos for scaling teams past 100+ engineers. Include tooling ecosystems (Nx, Bazel, Pants), cognitive overhead, CI/CD complexity, and case studies from companies that have migrated one way or the other. 

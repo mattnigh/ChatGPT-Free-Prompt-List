@@ -1,0 +1,10 @@
+---
+title: AI Adoption Structures in Large Engineering Organizations
+description: Analyze how large engineering organizations are structuring AI adoption, including governance, infrastructure, and experimentation models.
+tags:
+  - research
+  - ai
+  - leadership
+category: Deep Research
+---
+How are large engineering orgs (500+ engineers) structuring AI adoption internally? Include who owns model selection, how infra needs are met (GPU provisioning, fine-tuning), and how experimentation is balanced with governance. 

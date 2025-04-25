@@ -1,0 +1,10 @@
+---
+title: Program Portfolio Categorization
+description: Analyze and categorize a program portfolio into performance and alignment buckets with structured rationale.
+tags:
+  - analyze
+  - strategy
+  - metrics
+category: Program Management
+---
+"Review the following program portfolio and categorize each program into one of three buckets: (1) aligned and high-performing, (2) at risk or behind, and (3) misaligned or redundant. Return the output as a table with program name, current owner, priority level, and a 1-sentence rationale. [PASTE PROGRAM LIST]" 

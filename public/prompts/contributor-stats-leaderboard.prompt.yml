@@ -1,0 +1,10 @@
+---
+title: Contributor Stats Leaderboard
+description: Create a GitHub Action that collects repository contribution statistics and generates a leaderboard.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+Create a GitHub Action that pulls contribution stats (e.g., top contributors this month, number of PRs, commits) and generates a leaderboard-style markdown file. Update it weekly. 

@@ -1,0 +1,10 @@
+---
+title: Technical Debt Management at Scale
+description: Research how leading companies systematically track, prioritize, and address technical debt while balancing feature development.
+tags:
+  - research
+  - architecture
+  - strategy
+category: Deep Research
+---
+What are leading approaches for managing internal technical debt at scale? Include systems for surfacing and prioritizing tech debt (e.g., Atlassian's Tech Debt Wall of Shame, Airbnb's quarterly tech debt days), and how teams balance roadmap vs refactoring work. 

@@ -1,0 +1,10 @@
+---
+title: Large Text Chunked Summarizer
+description: Process and summarize large text files by breaking them into chunks for OpenAI and recombining the results.
+tags:
+  - ai
+  - workflow
+  - summary
+category: AI Workflows
+---
+"Create a GitHub Action that reads a large text file (e.g., `design-rationale.md`), splits it into chunks, sends them to OpenAI for summarization, and merges the responses into a single summary file." 

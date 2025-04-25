@@ -1,0 +1,13 @@
+---
+title: Visual Story Comic Panel
+description: Design a single-page comic or visual story using 6-8 panels that tell a complete narrative arc with space for dialogue or narration.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - style
+  - visual
+  - humor
+category: Images
+---
+Design a single-page comic or visual story using 6–8 panels that tell a complete narrative arc. Center the story around a simple premise (e.g., a character finds an object and goes on a quest). Include space for dialogue or narration and allow for creative flexibility in theme, character design, and artistic style. 

@@ -1,0 +1,10 @@
+---
+title: Code Logic Placement Advisor
+description: Evaluate whether code logic is in the appropriate location and suggest better alternatives if needed.
+tags:
+  - review
+  - code
+  - refactor
+category: Vibe Coding
+---
+Is this the right place in the code for this logic? If not, where should it go and why? 

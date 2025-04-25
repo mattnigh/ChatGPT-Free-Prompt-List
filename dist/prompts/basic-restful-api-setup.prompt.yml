@@ -1,0 +1,10 @@
+---
+title: Basic RESTful API Setup
+description: Create a RESTful API that supports CRUD operations for resources with user-specific access control.
+tags:
+  - code
+  - scaffold
+  - prototype
+category: Development
+---
+Create a basic RESTful API using Express (or use Next.js API routes) that supports GET, POST, PUT, and DELETE for a projects resource. Structure it so each user can CRUD their own project data, assuming they're identified via user ID. 

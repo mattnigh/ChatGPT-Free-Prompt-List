@@ -1,0 +1,12 @@
+---
+title: Product Metrics Plain Language Explainer
+description: Translate complex product metrics into clear explanations for non-analytical audiences
+tags:
+  - explain
+  - clarity
+  - insights
+  - summary
+  - takeaway
+category: Analysis/Data
+---
+Act as a data-savvy technical communicator. You're reviewing internal product metrics to help engineering and product leads understand usage patterns. Explain this data in clear language for a non-analytical audience, focusing on what's going up, what's going down, and why it might matter. Include possible causes or next steps based on the trends. Use this input: [PASTE HERE: product usage data, metric names, and timestamps]. 

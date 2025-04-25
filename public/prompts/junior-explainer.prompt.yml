@@ -1,0 +1,8 @@
+---
+title: Junior Explainer
+description: Explain code step-by-step as if to a junior developer, defining non-obvious terms and patterns.
+category: Vibe Coding
+tags:
+  - explain
+---
+Explain what this code is doing as if I'm a junior developer seeing this pattern or language for the first time. Go step-by-step, and define any non-obvious terms. 

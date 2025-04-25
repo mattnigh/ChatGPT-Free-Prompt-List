@@ -1,0 +1,10 @@
+---
+title: Reusable Workflow Scaffold
+description: Set up a reusable GitHub Actions workflow that can be triggered from multiple repositories.
+tags:
+  - workflow
+  - scaffold
+  - code
+category: Development
+---
+Can you scaffold a reusable GitHub Actions workflow file (.github/workflows/build.yml) that can be triggered from multiple other repos via workflow_call?

@@ -1,0 +1,10 @@
+---
+title: App Connection Troubleshooter
+description: Analyze data flow between application components to identify missing connection steps.
+tags:
+  - troubleshoot
+  - review
+  - error
+category: Vibe Coding
+---
+I'm trying to connect this part of the app to another, but it's not working. Can you check the data flow and see if I missed a step? 

@@ -1,0 +1,10 @@
+---
+title: Metric Column Explainer
+description: Translate complex data columns into clear, actionable explanations for non-technical audiences
+tags:
+  - explain
+  - clarity
+  - metrics
+category: Analysis/Data
+---
+Act as a metric interpreter. Use the data below to explain what each column means, why it might be important, and what someone could do with it. Be clear and non-technical. Input: [PASTE HERE: CSV header + sample rows or JSON array]. 

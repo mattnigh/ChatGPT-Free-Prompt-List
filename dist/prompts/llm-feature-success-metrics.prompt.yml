@@ -1,0 +1,10 @@
+---
+title: LLM Feature Success Metrics Guide
+description: Research appropriate metrics for evaluating LLM-powered features post-launch across different product types and user experiences.
+tags:
+  - research
+  - llm
+  - metrics
+category: Deep Research
+---
+What success metrics should a PM use to evaluate a new LLM-powered feature post-launch? I want examples across different product types (e.g., autocomplete in dev tools, AI chat in helpdesk software), covering quantitative (latency, usage, retention) and qualitative (delight, confusion) indicators. 

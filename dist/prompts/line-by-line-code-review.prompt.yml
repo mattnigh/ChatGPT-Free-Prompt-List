@@ -1,0 +1,10 @@
+---
+title: Line-by-Line Code Review
+description: Analyze code line by line to explain functionality and identify problematic sections.
+tags:
+  - explain
+  - review
+  - code
+category: Vibe Coding
+---
+Can you go through this code line by line and tell me what each part is doing, and if anything looks off or broken? 

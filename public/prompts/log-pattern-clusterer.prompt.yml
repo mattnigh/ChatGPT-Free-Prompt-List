@@ -1,0 +1,12 @@
+---
+title: Log Pattern Clusterer
+description: Identify and group recurring log patterns to enhance observability with targeted tagging
+tags:
+  - logs
+  - analyze
+  - observability
+  - monitoring
+  - patterns
+category: Development
+---
+Act as a developer enhancing observability. From this log output, identify recurring patterns or clusters of log events. Group similar logs and assign each group a suggested tag (e.g., AUTH_FAILURE, DB_TIMEOUT, RETRY_LOOP). Return results as a table: Tag, Pattern Summary, Frequency. Use this input: [PASTE HERE: server or app logs]. 

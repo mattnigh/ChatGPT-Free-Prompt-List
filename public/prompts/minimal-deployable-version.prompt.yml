@@ -1,0 +1,10 @@
+---
+title: Minimal Deployable Version
+description: Create a minimal but functional deployable version of an idea using a specified platform or tool.
+tags:
+  - prototype
+  - shortcut
+  - scaffold
+category: Development
+---
+Give me a minimal deployable version of this idea using (tool or platform, e.g. Vercel, Replit, Glitch). Just enough to show to someone. 

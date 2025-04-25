@@ -1,0 +1,12 @@
+---
+title: API Latency Pattern Analyzer
+description: Analyze API request logs to identify patterns in high latency issues and potential bottlenecks
+tags:
+  - troubleshoot
+  - analyze
+  - performance
+  - api
+  - logs
+category: Development
+---
+Act as a backend engineer reviewing request logs from an API experiencing high latency. Identify patterns in timing, endpoint usage, or failure codes. Return your analysis in three parts: 1) summary of issues, 2) potential bottlenecks, 3) next steps to isolate root cause. Analyze this data: [PASTE HERE: sampled API logs or latency stats]. 

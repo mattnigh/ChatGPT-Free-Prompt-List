@@ -1,0 +1,10 @@
+---
+title: AI-Native App Technical Stack Comparison
+description: Compare technical options for building cross-platform AI applications with offline capabilities, with framework pros and cons.
+tags:
+  - research
+  - architecture
+  - ai
+category: Deep Research
+---
+Explore technical options for building an AI-native app with offline capabilities. Compare Electron vs Tauri vs Flutter vs React Native for cross-platform desktop or mobile use, and include examples of apps built on each stack with similar goals. 

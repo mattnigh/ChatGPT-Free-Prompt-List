@@ -1,0 +1,10 @@
+---
+title: Engineering Standards Implementation Strategies
+description: Compare how different organizations implement and enforce engineering standards at scale, from dedicated teams to tooling automation.
+tags:
+  - research
+  - architecture
+  - leadership
+category: Deep Research
+---
+Compare org-level strategies for implementing engineering standards at scale. Include examples like Google's eng productivity team, Meta's code health initiatives, and medium-sized companies with working style guides or linters-as-a-service. 

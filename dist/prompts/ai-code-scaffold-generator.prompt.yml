@@ -1,0 +1,10 @@
+---
+title: AI Code Scaffold Generator
+description: Use OpenAI to generate suggested folder structures and starter functions based on issue descriptions.
+tags:
+  - ai
+  - workflow
+  - scaffold
+category: AI Workflows
+---
+"Create a GitHub Action that reads a Markdown spec or issue description, sends it to OpenAI, and asks for a code scaffold suggestion (e.g., folder structure, starter functions). Output it as a comment in the issue thread." 

@@ -1,0 +1,8 @@
+---
+title: README Analysis
+description: Analyze a README to explain what the project does, how to use it, and any important caveats.
+category: documentation
+tags:
+  - summary
+---
+Read this README and tell me what the project does, how to use it, and any important caveats. 

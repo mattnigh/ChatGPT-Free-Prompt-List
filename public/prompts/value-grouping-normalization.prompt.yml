@@ -1,0 +1,8 @@
+---
+title: Value Grouping & Normalization
+description: Group similar values in a column and recommend a mapping to unify them.
+category: Data/Analysis
+tags:
+  - clean
+---
+Group similar values in this column and recommend a mapping to unify them. For example, treat 'CA', 'California', and 'Calif.' as the same. 

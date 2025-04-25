@@ -1,0 +1,13 @@
+---
+title: Product Landing Page Template
+description: Create a visually engaging landing page template for a personal care product with hero section, benefits, ingredients, and call-to-action.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - style
+  - professional
+  - visual
+category: Images
+---
+Create a visually engaging landing page template for a personal care product (e.g., shampoo). Include a hero section with a product image, compelling headline, and clear call-to-action button. Add supporting sections for benefits, key ingredients, testimonials, and a subscription offer. Use soft, fresh color schemes, high-quality imagery, and ensure the layout is responsive, clean, and optimized for conversions. 

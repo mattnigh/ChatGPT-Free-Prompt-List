@@ -1,0 +1,8 @@
+---
+title: Logic vs Intent Analyzer
+description: Reason through what code is trying to do vs. what it actually does, and point out any disconnects.
+category: Vibe Coding
+tags:
+  - analyze
+---
+This logic doesn't feel right to me: [paste code]. Can you reason through what it looks like it's trying to do vs. what it's actually doing? Point out any disconnects. 

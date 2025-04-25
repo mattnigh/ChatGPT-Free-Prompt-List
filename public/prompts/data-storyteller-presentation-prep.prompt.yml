@@ -1,0 +1,11 @@
+---
+title: Data Storyteller Presentation Prep
+description: Transform messy data outputs into clear presentation-ready insights with actionable takeaways
+tags:
+  - storytelling
+  - analyze
+  - takeaway
+  - presentation
+category: Analysis/Data
+---
+Act as a data storyteller. Help me turn this messy output into something I can present to my team. Identify the "so what" from the data and summarize it as 3 takeaways and 1 recommendation. Work from this: [PASTE HERE: query result, spreadsheet section, or export]. 

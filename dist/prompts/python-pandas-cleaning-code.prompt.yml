@@ -1,0 +1,9 @@
+---
+title: Python/Pandas Cleaning Code
+description: Generate Python or Pandas code to clean a dataset, handling nulls, standardizing formats, and prepping for analysis.
+category: Data/Analysis
+tags:
+  - code
+  - clean
+---
+Give me Python or Pandas code to clean this dataset: [describe or paste sample]. I want it to handle nulls, standardize formats, and prep for analysis. 

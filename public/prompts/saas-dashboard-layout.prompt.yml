@@ -1,0 +1,10 @@
+---
+title: SaaS Dashboard Layout
+description: Create a responsive dashboard layout with sidebar navigation, top nav, and content area using Tailwind CSS.
+tags:
+  - code
+  - scaffold
+  - professional
+category: Development
+---
+Design a SaaS dashboard layout using Tailwind CSS. Include a collapsible sidebar on the left with icons for navigation (Dashboard, Projects, Settings), a top nav with a user avatar and logout button, and a main content area that can hold dynamic content. 

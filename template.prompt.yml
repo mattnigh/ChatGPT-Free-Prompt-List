@@ -1,0 +1,15 @@
+# Prompt Template
+# This template shows the minimum required fields for a valid prompt
+# The app will automatically use default values for any missing fields
+
+---
+title: Your Prompt Title
+description: A clear, concise description of what this prompt does
+tags:
+  - tag1
+  - tag2  # Choose appropriate tags from prompt-tag-mapping.md
+category: Category  # e.g. Images, Analysis/Data, Vibe Coding, Writing
+---
+Write your prompt instructions here. Be specific and clear about what you want the AI to do.
+
+The text after the second "---" delimiter becomes the actual prompt that will be sent to the AI. 

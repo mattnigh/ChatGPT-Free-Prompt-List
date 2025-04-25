@@ -1,0 +1,12 @@
+---
+title: Phased Execution Plan Template
+description: Create a structured execution plan with timelines and dependencies for complex infrastructure projects
+tags:
+  - timeline
+  - planning
+  - program
+  - roadmap
+  - template
+category: Program Management
+---
+Act as a TPM assisting with execution planning for a complex infra refactor. The project requires staged rollout, testing, migration support, and backend contract changes. Create a phase-based execution plan with timelines, dependencies, and major engineering milestones. Prioritize clarity and alignment. Give one version optimized for Google Sheets and another for a Notion roadmap doc. Base your plan on the following: [PASTE HERE: current state of infra, project goals, known phases or staging needs]. 

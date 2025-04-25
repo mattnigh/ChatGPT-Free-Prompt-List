@@ -1,0 +1,11 @@
+---
+title: Application Error Analyzer
+description: Identify and summarize critical error patterns from application logs to prioritize debugging efforts
+tags:
+  - analyze
+  - error
+  - troubleshoot
+  - logs
+category: Analysis/Data
+---
+Act as a senior developer reading app logs. Summarize the frequency and type of errors, and highlight the most critical log lines that might signal a deeper issue. Output: Error Type → Count → Explanation. Review this data: [PASTE HERE: raw application logs]. 

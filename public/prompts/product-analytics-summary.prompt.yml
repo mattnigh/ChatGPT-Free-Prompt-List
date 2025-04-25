@@ -1,0 +1,11 @@
+---
+title: Product Analytics Summary
+description: Create concise reports from product analytics that highlight successes, concerns, and areas for investigation
+tags:
+  - analyze
+  - product
+  - metrics
+  - insights
+category: Analysis/Data
+---
+Act as a technical PM reviewing product analytics. Use the following data to create a short report that answers: (1) what's working, (2) what's declining, and (3) where we need to dig deeper. Data set: [PASTE HERE: user behavior metrics, funnel analysis, or feature usage logs]. 

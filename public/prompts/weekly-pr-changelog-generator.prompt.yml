@@ -1,0 +1,10 @@
+---
+title: Weekly PR Changelog Generator
+description: Create a GitHub Action that summarizes recently merged pull requests and updates a changelog file.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+I want a GitHub Action that summarizes all pull requests merged in the past 7 days and generates a CHANGELOG.md entry. Output should include PR titles, authors, and links. 

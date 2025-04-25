@@ -1,0 +1,10 @@
+---
+title: External API Data Fetcher
+description: Build a GitHub Action that retrieves data from external APIs, formats it as markdown, and saves it to the repository.
+tags:
+  - workflow
+  - automation
+  - code
+category: Development
+---
+Build a GitHub Action that fetches data from an external API (e.g., Hacker News, GitHub API, etc.), extracts relevant info (like top 5 items), formats it into a markdown file, and commits it to the repo. 

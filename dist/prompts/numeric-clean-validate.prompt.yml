@@ -1,0 +1,9 @@
+---
+title: Numeric Clean & Validate
+description: Clean and validate numerical fields containing outliers or invalid strings for analysis.
+category: Data/Analysis
+tags:
+  - clean
+  - validate
+---
+Some numerical fields contain outliers or invalid strings. Help me clean and validate these numbers so I can use them for analysis. 

@@ -1,0 +1,10 @@
+---
+title: AI Pair Programming Impact Analysis
+description: Evaluate the productivity impact and limitations of AI coding tools like GitHub Copilot and Codeium for software development.
+tags:
+  - research
+  - ai
+  - tools
+category: Deep Research
+---
+Summarize current thinking on AI-powered pair programming. Focus on tools like GitHub Copilot, Codeium, and Replit Ghostwriter. What's the real productivity impact? What problems does it still struggle with (e.g., hallucinations, test coverage)? 

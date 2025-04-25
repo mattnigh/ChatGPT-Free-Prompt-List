@@ -1,0 +1,12 @@
+---
+title: Code Refactoring Guide
+description: Receive structured suggestions to improve code readability, modularity, and maintainability
+tags:
+  - refactor
+  - code
+  - best-practices
+  - review
+  - architecture
+category: Development
+---
+Act as a refactoring guide. Suggest ways to improve the readability, modularity, or maintainability of this code. Output format: Original Block → Suggested Change → Reason. Analyze this code: [PASTE HERE: one class, module, or script]. 

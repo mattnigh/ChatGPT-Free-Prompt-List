@@ -1,0 +1,10 @@
+---
+title: Error Report Interpreter
+description: Decode error reports by identifying root causes, frequency patterns, and highlighting recent occurrences
+tags:
+  - error
+  - troubleshoot
+  - analyze
+category: Analysis/Data
+---
+Act as a developer support assistant. Help me understand this error report by identifying: common root causes, frequency of each type, and which errors have occurred recently. Use this log sample: [PASTE HERE: list of error messages or codes with timestamps]. 

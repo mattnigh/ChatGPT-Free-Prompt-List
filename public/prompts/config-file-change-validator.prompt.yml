@@ -1,0 +1,10 @@
+---
+title: Config File Change Validator
+description: Build a GitHub Action that detects, validates, and reports issues in configuration file changes.
+tags:
+  - workflow
+  - ci
+  - config
+category: Development
+---
+Build a GitHub Action that detects changes to config files, runs a linter or validator, and posts a comment on the pull request summarizing any issues. 

@@ -1,0 +1,8 @@
+---
+title: Dataset Deduplication
+description: Show how to remove duplicates from a dataset based on columns and explain the impact on the data.
+category: Analysis/Data
+tags:
+  - deduplicate
+---
+Show me how to remove duplicates from this dataset based on one or more columns, and explain what impact that might have on the data. 

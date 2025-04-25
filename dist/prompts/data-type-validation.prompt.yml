@@ -1,0 +1,8 @@
+---
+title: Data Type Validation
+description: Identify and fix rows in a dataset that have the wrong data type (e.g., numbers in text columns, strings in numeric columns).
+category: Analysis/Data
+tags:
+  - validate
+---
+Identify and fix rows in this dataset that have the wrong data type (e.g., numbers in text columns, strings in numeric columns). 

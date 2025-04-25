@@ -1,0 +1,12 @@
+---
+title: Smart Alerting Condition Generator
+description: Create targeted alert conditions based on log trends, error frequencies, and failure cascades
+tags:
+  - logs
+  - monitoring
+  - alerting
+  - observability
+  - error
+category: Development
+---
+Act as an SRE designing smarter alerting. Review these logs and propose 5 alert conditions based on trends, error frequency, or failure cascades. Output format: Alert Name, Trigger Pattern, Recommended Threshold, Severity. Use this context: [PASTE HERE: error logs and time series]. 

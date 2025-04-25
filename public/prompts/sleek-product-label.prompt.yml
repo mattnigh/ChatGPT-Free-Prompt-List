@@ -1,0 +1,13 @@
+---
+title: Sleek Product Label Design
+description: Design a sleek product label for personal care items with clean typography and natural color palette centered around an existing logo.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - style
+  - professional
+  - visual
+category: Images
+---
+Design a sleek product label for personal care items (e.g., shampoo). Use the provided logo as a central focal point. Incorporate clean, legible typography, a palette of natural or earthy tones, and subtle textures (such as waves or gradients) to convey freshness and professionalism. 

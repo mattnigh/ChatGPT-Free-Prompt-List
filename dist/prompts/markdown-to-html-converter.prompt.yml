@@ -1,0 +1,10 @@
+---
+title: Markdown to HTML Converter
+description: Set up a GitHub Action that automatically converts markdown files to HTML using a static site generator.
+tags:
+  - workflow
+  - automation
+  - markdown
+category: Development
+---
+Set up a GitHub Action that watches for changes in .md files and automatically converts them to HTML using a static site generator (e.g., Eleventy or Hugo), then stores the output in a public/ folder as artifacts. 

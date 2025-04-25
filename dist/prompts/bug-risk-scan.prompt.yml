@@ -1,0 +1,8 @@
+---
+title: Bug Risk Scan
+description: Scan code for areas likely to introduce bugs, highlight risky patterns or edge cases, and suggest tests or fixes.
+category: Vibe Coding
+tags:
+  - review
+---
+Scan this file for areas that are likely to introduce bugs. Highlight risky patterns or edge cases and suggest how I could test or fix them. 

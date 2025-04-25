@@ -1,0 +1,10 @@
+---
+title: UI Animation Integration
+description: Add balanced animations to UI elements using specified animation libraries or CSS transitions.
+tags:
+  - style
+  - code
+  - shortcut
+category: Vibe Coding
+---
+Add animations to this UI using (CSS transitions / Framer Motion / GSAP) — just enough to make interactions feel lively but not distracting. 

@@ -1,0 +1,12 @@
+---
+title: QBR Data Narrative Generator
+description: Transform operational data into compelling narratives for quarterly business reviews
+tags:
+  - storytelling
+  - summary
+  - insights
+  - presentation
+  - takeaway
+category: Analysis/Data
+---
+Act as a technical analyst presenting findings in a QBR. Turn this data into a short narrative: what happened, why it matters, and what to do about it. Include 2–3 bullet-point insights and a final paragraph summarizing the story in business terms. Start with this data: [PASTE HERE: table or excerpt from operational dashboard, logs, or error summaries]. 

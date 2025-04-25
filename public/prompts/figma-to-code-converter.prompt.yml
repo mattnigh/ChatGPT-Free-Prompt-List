@@ -1,0 +1,10 @@
+---
+title: Figma to Code Converter
+description: Convert Figma designs or mockup descriptions into styled code using a specified framework.
+tags:
+  - code
+  - style
+  - shortcut
+category: Vibe Coding
+---
+Here's a Figma design (or mockup description): (paste details). Help me convert it into styled JSX/HTML/CSS using (framework). 

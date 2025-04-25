@@ -1,0 +1,10 @@
+---
+title: API Mock Setup
+description: Create a mock implementation of an external API to enable development before the real API is ready.
+tags:
+  - mock
+  - code
+  - prototype
+category: Development
+---
+What's a fast way to mock this external API: (API name or description) so I can start building before it's ready? 

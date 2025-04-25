@@ -1,0 +1,12 @@
+---
+title: Repo Structure Mapper
+description: Generate a high-level map of a project's structure, entry points, and organizational patterns
+tags:
+  - architecture
+  - code
+  - documentation
+  - onboarding
+  - explain
+category: Development
+---
+Act as a new engineer trying to understand this repo's structure. Give a high-level map of the project: describe what each folder is for, the key entry points, and any patterns you notice in naming or layout. Analyze this directory tree: [PASTE HERE: `tree` or folder list of the project root]. 

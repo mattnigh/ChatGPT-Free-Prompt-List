@@ -1,0 +1,10 @@
+---
+title: Code Formatting PR Check
+description: Generate a workflow that automatically checks pull requests for code formatting issues using Prettier.
+tags:
+  - workflow
+  - ci
+  - automation
+category: Development
+---
+Generate a workflow that runs on every pull request to main, checks for code formatting with Prettier, and leaves a comment on the PR if formatting issues are found. 

@@ -1,0 +1,10 @@
+---
+title: AI Agent Orchestration Strategy Guide
+description: Draft a strategy document on AI agent architecture, coordination, and memory systems for software development workflows.
+tags:
+  - strategy
+  - ai
+  - architecture
+category: Deep Research
+---
+Help me draft a strategy doc on AI agent orchestration in software workflows. I want to understand how companies like Replit (with Ghostwriter), GitHub (with Copilot Agents), and emerging startups are thinking about agent architecture, coordination, and memory. Include tradeoffs they've discussed, challenges in implementation, and diagrams or architecture models if available. 

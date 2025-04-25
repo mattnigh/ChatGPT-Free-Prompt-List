@@ -1,0 +1,12 @@
+---
+title: Log Enrichment Automator
+description: Add structured tags to unstructured or semi-structured logs for improved searchability and analysis
+tags:
+  - logs
+  - observability
+  - automation
+  - analyze
+  - structure
+category: Development
+---
+Act as a developer automating log enrichment. Review this raw log stream and add structured tags (e.g., endpoint, component, error_type) for each line where applicable. Return a version of the logs with those tags injected. Use this log data: [PASTE HERE: unstructured or semi-structured logs]. 

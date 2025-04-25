@@ -1,0 +1,10 @@
+---
+title: MLOps and DevOps Practices Comparison
+description: Analyze similarities and differences between MLOps and DevOps practices, with focus on model management compared to traditional CI/CD.
+tags:
+  - research
+  - mlops
+  - architecture
+category: Deep Research
+---
+Help me explore the MLOps → DevOps analogy. How are ML teams handling model versioning, evaluation, rollout, observability, and rollback? Compare that to how software teams run CI/CD pipelines. Highlight best practices and where the analogy breaks down. 

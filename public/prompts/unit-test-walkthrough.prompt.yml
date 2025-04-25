@@ -1,0 +1,8 @@
+---
+title: Unit Test Walkthrough
+description: Walk through creating a unit test for a function, what cases to cover, and why each matters.
+category: Vibe Coding
+tags:
+  - test
+---
+I want to write a unit test for this function: [paste code]. Walk me through creating the test, what cases to cover, and why each one matters. 

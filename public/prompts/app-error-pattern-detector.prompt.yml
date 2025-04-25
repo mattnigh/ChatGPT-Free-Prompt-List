@@ -1,0 +1,12 @@
+---
+title: App Error Pattern Detector
+description: Identify recurring error patterns in application logs and recommend targeted debugging steps
+tags:
+  - troubleshoot
+  - error
+  - debug
+  - analyze
+  - logs
+category: Development
+---
+Act as a full-stack developer debugging a recurring error in our application. The logs include stack traces, error messages, and request metadata. Extract key failure patterns, identify the most likely root issue, and suggest 2–3 focused debugging steps. Start with this: [PASTE HERE: app logs, stack trace samples, or exception data]. 

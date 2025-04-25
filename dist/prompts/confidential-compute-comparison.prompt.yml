@@ -1,0 +1,10 @@
+---
+title: Confidential Cloud Computing Comparison
+description: Analyze the current state of confidential compute offerings from major cloud providers, with use cases and technical limitations.
+tags:
+  - research
+  - cloud
+  - security
+category: Deep Research
+---
+Summarize the current state of confidential compute in cloud infrastructure (as of 2024). I want to understand how AWS Nitro Enclaves, Azure Confidential VMs, and GCP's Confidential Space compare. Include common use cases (e.g., AI model privacy, finance), technical limitations, and industry adoption data if available. Prioritize first-party docs, academic sources, or respected analysts. 

@@ -1,0 +1,10 @@
+---
+title: Conditional Test Workflow
+description: Create a GitHub Action that only runs tests when specific files or directories have been modified.
+tags:
+  - workflow
+  - ci
+  - optimization
+category: Development
+---
+Create a GitHub Action that only runs tests if files in the src/ directory have changed. Otherwise, it should skip the job and print a message. 

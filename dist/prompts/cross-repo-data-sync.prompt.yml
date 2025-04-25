@@ -1,0 +1,10 @@
+---
+title: Cross-Repo Data Sync
+description: Create a GitHub Action that pulls data from a secondary repository, processes it, and stores the results.
+tags:
+  - workflow
+  - automation
+  - code
+category: Development
+---
+Write a GitHub Action that clones a secondary repo, pulls in the latest JSON data from it, processes it with a script, and stores the result in this repo as part of a nightly data sync. 

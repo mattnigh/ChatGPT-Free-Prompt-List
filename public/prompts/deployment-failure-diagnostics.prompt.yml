@@ -1,0 +1,12 @@
+---
+title: Deployment Failure Diagnostics
+description: Pinpoint the exact cause of deployment failures from logs and identify improvement areas
+tags:
+  - troubleshoot
+  - deployment
+  - devops
+  - logs
+  - ci
+category: Development
+---
+Act as a DevOps engineer reviewing deployment logs for a failed rollout. Pinpoint where the failure occurred, what component it was in, and whether it's config, code, or infra-related. Also flag any misleading or missing log entries. Use this input: [PASTE HERE: deploy script output or CI/CD pipeline logs]. 

@@ -1,0 +1,10 @@
+---
+title: Page Routing Setup
+description: Set up page routing for a web application with proper layout wrappers to avoid repeating elements.
+tags:
+  - scaffold
+  - code
+  - shortcut
+category: Development
+---
+Set up page routing in [Next.js or React Router] for these paths: "/", "/login", "/signup", "/dashboard", "/settings". Use layout wrappers where appropriate to avoid repeating nav bars and footers. 

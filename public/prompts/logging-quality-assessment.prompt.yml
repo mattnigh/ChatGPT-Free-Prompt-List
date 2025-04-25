@@ -1,0 +1,12 @@
+---
+title: Logging Quality Assessment
+description: Evaluate and improve logging practices through format, severity, and context recommendations
+tags:
+  - logs
+  - review
+  - monitoring
+  - best-practices
+  - observability
+category: Development
+---
+Act as a logging and observability expert. Assess the quality of this server log output. Suggest improvements to log formatting, severity levels, message consistency, or context richness. Use this example: [PASTE HERE: snippet of raw server logs]. 

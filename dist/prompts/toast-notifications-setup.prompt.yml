@@ -1,0 +1,10 @@
+---
+title: Toast Notifications Setup
+description: Add toast notifications to alert users when actions succeed or fail, with transitions and styling.
+tags:
+  - code
+  - scaffold
+  - shortcut
+category: Development
+---
+Add toast notifications using [React Toastify or Headless UI] to alert users when an action succeeds or fails — for example, 'Settings Saved', 'Login Failed', or 'New Project Created'. Include fade-in/out transitions. 

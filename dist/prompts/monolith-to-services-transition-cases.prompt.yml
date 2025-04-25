@@ -1,0 +1,10 @@
+---
+title: Monolith to Services Transition Case Studies
+description: Find product-focused case studies of organizations that successfully transitioned from monolithic to modular architectures.
+tags:
+  - research
+  - architecture
+  - strategy
+category: Deep Research
+---
+Find case studies where engineering orgs transitioned from monoliths to modular service architectures. I want a product-side view of risks, how functionality was split across teams, stakeholder alignment challenges, and which sequencing or milestones made the transition smoother. 

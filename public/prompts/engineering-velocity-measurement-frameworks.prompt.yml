@@ -1,0 +1,10 @@
+---
+title: Engineering Velocity Measurement Frameworks
+description: Compare different frameworks and metrics for measuring engineering velocity, with their strengths, limitations, and potential misuse.
+tags:
+  - research
+  - metrics
+  - productivity
+category: Deep Research
+---
+Summarize best practices for measuring engineering velocity across teams. Compare frameworks like DORA, SPACE, and internal metrics like PR cycle time or lead time to production. Include pros, cons, and examples of misuse or distortion. 

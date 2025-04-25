@@ -1,0 +1,9 @@
+---
+title: API Doc Summary
+description: Provide a high-level summary of an API doc and include an example of how to use it.
+category: documentation
+tags:
+  - summary
+  - api
+---
+Give me a high-level summary of this API doc, and include an example of how to use it. 

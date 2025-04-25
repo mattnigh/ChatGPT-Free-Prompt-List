@@ -1,0 +1,10 @@
+---
+title: GitHub Actions Architecture Whitepaper
+description: Draft a technical white paper explaining a new architecture for scaling GitHub Actions workflows.
+tags:
+  - template
+  - clarity
+  - takeaway
+category: Writing
+---
+Help me draft a technical white paper introducing our new architecture for scaling GitHub Actions workflows. Include background context, limitations of our old system, technical design, and a performance comparison. 

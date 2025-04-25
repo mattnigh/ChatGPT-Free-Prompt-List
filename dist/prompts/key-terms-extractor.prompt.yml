@@ -1,0 +1,10 @@
+---
+title: Key Terms Extractor
+description: Extract all key terms or acronyms from a document and define them in context.
+category: documentation
+tags:
+  - key terms
+  - acronyms
+  - definitions
+---
+Extract all the key terms or acronyms from this doc and define them in context. 

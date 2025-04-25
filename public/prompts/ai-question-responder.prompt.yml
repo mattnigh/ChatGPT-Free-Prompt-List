@@ -1,0 +1,10 @@
+---
+title: AI Question Responder
+description: Generate draft responses to questions in GitHub issues using OpenAI without automatically posting them.
+tags:
+  - ai
+  - workflow
+  - automation
+category: AI Workflows
+---
+"Help me build a GitHub Action that pulls questions from open issues labeled `question`, sends them to OpenAI's API, and creates a draft response comment. Do not post automatically — just write the comment and tag it as `[AI Draft]`." 

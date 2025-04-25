@@ -1,0 +1,12 @@
+---
+title: Security-Focused Code Review
+description: Identify security vulnerabilities and fragile code patterns with inline annotations
+tags:
+  - security
+  - review
+  - code
+  - analyze
+  - best-practices
+category: Development
+---
+Act as a security-minded engineer reviewing this code. Identify anything that looks risky or fragile — e.g., hardcoded values, unchecked input, or insecure dependencies. Annotate your findings inline with comments. Review this: [PASTE HERE: function, route, or API handler]. 

@@ -1,0 +1,10 @@
+---
+title: Deploy to Hosting Workflow
+description: Create a GitHub Action that builds and deploys a project to Vercel or Netlify when merging to main.
+tags:
+  - workflow
+  - cd
+  - config
+category: Development
+---
+Create a GitHub Action that builds my project and deploys it to Vercel (or Netlify) when I merge to `main`. Include environment setup and secrets configuration instructions.

@@ -1,0 +1,10 @@
+---
+title: Error Tracking Proposal
+description: Craft a detailed proposal for implementing Sentry error tracking in a frontend application.
+tags:
+  - template
+  - clarity
+  - takeaway
+category: Writing
+---
+Write a proposal for adding error tracking to our frontend app using Sentry. I want to explain the current gap, how Sentry would help, what it would cost us (in time or complexity), and the tradeoffs. 

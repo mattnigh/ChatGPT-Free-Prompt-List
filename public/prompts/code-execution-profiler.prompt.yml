@@ -1,0 +1,11 @@
+---
+title: Code Execution Profiler
+description: Identify performance bottlenecks in system traces and logs with clear component-level timing breakdowns
+tags:
+  - performance
+  - analyze
+  - code
+  - troubleshoot
+category: Analysis/Data
+---
+Act as a code-execution profiler. Review this trace or log and explain which parts of the system are taking the most time, and why. Output format: Component → Time Taken → Likely Bottleneck. Analyze this: [PASTE HERE: performance trace, Flamegraph data, or APM export]. 

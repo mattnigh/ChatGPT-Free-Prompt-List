@@ -1,0 +1,10 @@
+---
+title: AI Feature Prioritization Frameworks
+description: Identify frameworks product managers use to prioritize AI features, with examples from leading products and tradeoff considerations.
+tags:
+  - research
+  - ai
+  - tradeoffs
+category: Deep Research
+---
+I need frameworks that PMs use to prioritize AI features. Focus on tradeoff-heavy decisions (e.g., explainability vs accuracy, automation vs human control). Include real-world examples from tools like Grammarly, GitHub Copilot, or Notion AI, and quote PMs or designers where possible. 

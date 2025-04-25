@@ -1,0 +1,10 @@
+---
+title: App Boilerplate Generator
+description: Generate starter boilerplate code for a small application with specified core functionality.
+tags:
+  - code
+  - scaffold
+  - prototype
+category: Development
+---
+Can you generate boilerplate code for a small app using (stack) that supports (core functionality)? 

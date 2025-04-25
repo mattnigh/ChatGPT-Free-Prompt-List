@@ -1,0 +1,10 @@
+---
+title: AI Weekly Progress Report
+description: Generate comprehensive weekly summaries of repository activity using OpenAI.
+tags:
+  - ai
+  - workflow
+  - summary
+category: AI Workflows
+---
+"Set up a GitHub Action that generates a weekly report by pulling merged PRs, notable issues, and recent commits. Use OpenAI to summarize the week's work into a markdown file: `weekly-report.md`." 

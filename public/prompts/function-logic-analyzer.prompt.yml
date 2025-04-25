@@ -1,0 +1,10 @@
+---
+title: Function Logic Analyzer
+description: Walk through function execution with test examples to pinpoint incorrect behavior and results.
+tags:
+  - troubleshoot
+  - error
+  - review
+category: Vibe Coding
+---
+This function runs, but it's giving me the wrong result. Can you walk through it with test examples to find where it goes wrong? 

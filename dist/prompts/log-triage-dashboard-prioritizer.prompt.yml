@@ -1,0 +1,12 @@
+---
+title: Log Triage Dashboard Prioritizer
+description: Identify and prioritize critical log patterns for developer awareness based on frequency and impact
+tags:
+  - logs
+  - analyze
+  - prioritize
+  - monitoring
+  - dashboard
+category: Development
+---
+Act as a backend developer preparing a triage dashboard. Identify the top 3 log patterns that devs should be aware of this week — prioritize by frequency and impact. Include a suggested tag, brief description, and related metric (if possible). Analyze this sample: [PASTE HERE: recent logs or extracted metrics]. 

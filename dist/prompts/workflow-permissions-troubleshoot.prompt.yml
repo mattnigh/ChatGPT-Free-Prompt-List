@@ -1,0 +1,10 @@
+---
+title: Workflow Permissions Troubleshoot
+description: Analyze and fix GitHub Actions permissions errors by diagnosing the YAML configuration.
+tags:
+  - debug
+  - security
+  - workflow
+category: Development
+---
+Help me debug this GitHub Action that keeps failing with a permissions error. I'll paste the error and YAML — walk me through what's going wrong. 

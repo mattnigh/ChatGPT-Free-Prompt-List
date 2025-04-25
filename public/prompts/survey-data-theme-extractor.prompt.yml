@@ -1,0 +1,12 @@
+---
+title: Survey Data Theme Extractor
+description: Organize user feedback into actionable themes with representative quotes and recommendations
+tags:
+  - summary
+  - insights
+  - feedback
+  - actionable
+  - analyze
+category: Analysis/Data
+---
+Act as a cross-functional explainer translating survey data into team-facing insights. Organize the feedback into 3 themes, include representative quotes if available, and end with 1 recommendation per theme. Structure your output as a team update. Analyze this: [PASTE HERE: raw user feedback, survey results, or sentiment notes]. 

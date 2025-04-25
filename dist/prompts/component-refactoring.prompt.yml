@@ -1,0 +1,10 @@
+---
+title: Component Refactoring Guide
+description: Break down a large component into smaller, more manageable standalone components.
+tags:
+  - refactor
+  - code
+  - clarity
+category: Vibe Coding
+---
+Help me refactor this giant component into smaller ones. Break it down and explain which pieces should become standalone components. 

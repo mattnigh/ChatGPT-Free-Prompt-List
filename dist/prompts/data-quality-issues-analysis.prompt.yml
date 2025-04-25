@@ -1,0 +1,8 @@
+---
+title: Data Quality Issues Analysis
+description: Analyze a dataset and list the types of data quality issues present, such as nulls, outliers, formatting inconsistencies, or duplicate rows.
+category: Analysis/Data
+tags:
+  - validate
+---
+Analyze this dataset and list the types of data quality issues you see — like nulls, outliers, formatting inconsistencies, or duplicate rows. 

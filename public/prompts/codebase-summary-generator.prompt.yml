@@ -1,0 +1,12 @@
+---
+title: Codebase Summary Generator
+description: Generate clear summaries of unfamiliar code modules including their purpose and system connections
+tags:
+  - review
+  - explain
+  - code
+  - documentation
+  - architecture
+category: Development
+---
+Act as a senior software engineer reviewing an unfamiliar codebase. Provide a summary of what this file or module does, who might use it, and how it connects to other parts of the system. Use this input: [PASTE HERE: a source file or class]. 

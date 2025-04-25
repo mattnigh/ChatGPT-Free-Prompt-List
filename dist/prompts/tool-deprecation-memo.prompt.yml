@@ -1,0 +1,10 @@
+---
+title: Tool Deprecation Memo
+description: Write an internal memo explaining the rationale for replacing a custom deployment tool with GitHub Actions.
+tags:
+  - clarity
+  - takeaway
+  - template
+category: Writing
+---
+Draft an internal memo to the engineering team explaining why we chose to deprecate our custom deployment tool and move to GitHub Actions. Include what we did, why we did it, alternatives we explored, and what's coming next. 

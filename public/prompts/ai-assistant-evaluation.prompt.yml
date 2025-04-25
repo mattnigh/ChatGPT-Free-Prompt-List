@@ -1,0 +1,21 @@
+---
+title: AI Assistant Evaluation
+description: Analyze and compare different AI assistants for a specific workflow.
+tags:
+  - ai
+  - review
+  - analysis
+category: AI Workflows
+---
+"I need to evaluate different AI assistants (like ChatGPT, Claude, Gemini, etc.) for our [specific domain/purpose]. 
+
+Our primary requirements are:
+- [Requirement 1, e.g., accuracy in technical content]
+- [Requirement 2, e.g., ability to follow complex instructions]
+- [Requirement 3, e.g., consistency in output format]
+
+Can you help me create a structured evaluation approach with:
+1. Specific test prompts we should use
+2. Evaluation criteria and scoring method
+3. Important considerations or limitations to be aware of
+4. Best practices for conducting a fair comparison" 

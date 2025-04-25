@@ -1,0 +1,10 @@
+---
+title: Quick API Backend Generator
+description: Generate a basic REST or GraphQL API backend with specified endpoints using a chosen tech stack.
+tags:
+  - code
+  - scaffold
+  - shortcut
+category: Development
+---
+I need a quick backend for this project. Generate a basic REST or GraphQL API using (tech stack) with endpoints for (resource types). 

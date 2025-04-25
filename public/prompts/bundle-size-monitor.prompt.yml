@@ -1,0 +1,10 @@
+---
+title: Bundle Size Monitor
+description: Create a GitHub Action that monitors and records JavaScript bundle size changes across builds.
+tags:
+  - workflow
+  - ci
+  - optimization
+category: Development
+---
+I want a GitHub Action that monitors the size of my production JavaScript bundle over time. Store the size and commit hash in a bundle-history.json file for each run. 

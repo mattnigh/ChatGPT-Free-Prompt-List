@@ -1,0 +1,8 @@
+---
+title: Column Normalization
+description: Clean and normalize a column with misspelled or inconsistently formatted entries, returning a cleaned version.
+category: Analysis/Data
+tags:
+  - clean
+---
+Clean this column: [paste column values]. Some entries are misspelled or inconsistently formatted. Normalize the values and return a cleaned version. 

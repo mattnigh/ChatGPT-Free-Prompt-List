@@ -1,0 +1,8 @@
+---
+title: Logging Suggestions
+description: Suggest simple and effective ways to add logging to code, explaining what each log captures and why it's useful.
+category: Vibe Coding
+tags:
+  - review
+---
+Can you suggest simple and effective ways to add logging to this code: [paste code]? Please explain what each log would capture and why it's useful for someone unfamiliar with the codebase. 

@@ -1,0 +1,10 @@
+---
+title: Spreadsheet Key Insights Summary
+description: Analyze a spreadsheet and summarize key insights by category or column, focusing on trends, outliers, and notable patterns.
+tags:
+  - summary
+  - analyze
+  - validate
+category: Analysis/Data
+---
+Analyze this spreadsheet and give me a summary of key insights by category or column. Focus on trends, outliers, and any patterns worth noting. [PASTE HERE: cleaned CSV, table data, or a description of what each column represents.] 

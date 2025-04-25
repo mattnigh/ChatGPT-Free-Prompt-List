@@ -1,0 +1,10 @@
+---
+title: API Data Fetching Component
+description: Implement a frontend component that fetches data from an API using a specified JavaScript framework.
+tags:
+  - code
+  - frontend
+  - scaffold
+category: Development
+---
+Show me how to wire this front-end component to fetch data from an API. Assume I'm building this in (React/Vue/etc.). 

@@ -1,0 +1,214 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Two main background colors */
+    --background: #fff;
+    --sidebar-background: #f6f8fa;
+    
+    /* Text colors */
+    --foreground: #191c20;
+    --sidebar-foreground: #24292f;
+    
+    /* Border colors */
+    --sidebar-border: #d0d7de;
+    --sidebar-ring: #d0d7de;
+    --border: #d0d7de;
+    
+    /* Other tokens */
+    --input: #eaeceb;
+    --radius: 0.5rem;
+
+    /* GitHub theme colors for components */
+    --github-border: #d0d7de;
+    --github-button: #f6f8fa;
+    --github-text: #24292f;
+  }
+
+  .dark-mode {
+    /* Two main background colors - dark mode */
+    --background: #121417;
+    --sidebar-background: #1a1f2c;
+    
+    /* Text colors - dark mode */
+    --foreground: #f4f4f4;
+    --sidebar-foreground: #f4f4f4;
+    
+    /* Border colors - dark mode */
+    --sidebar-border: #30363d;
+    --sidebar-ring: #30363d;
+    --border: #30363d;
+    
+    /* Other tokens - dark mode */
+    --input: #23272d;
+    
+    /* GitHub theme colors for components - dark mode */
+    --github-border: #30363d;
+    --github-button: #282e39;
+    --github-text: #adbac7;
+  }
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Card animations and transitions */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card-animate-in {
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+/* Hover animations for cards */
+.card-hover-effect {
+  transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.card-hover-effect::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background: linear-gradient(to right, #3b82f6, #8b5cf6);
+  transition: width 0.3s ease;
+  z-index: 1;
+}
+
+.card-hover-effect:hover {
+  /* Gentle Elevation - Cards slightly raise with increased shadow depth */
+  transform: translateY(-4px);
+  
+  /* Scale + Shadow - Subtle scale combined with softer, larger shadow */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.06);
+  
+  /* Material Depth - Card gains slight 3D perspective tilt */
+  transform: translateY(-4px) perspective(1000px) rotateX(2deg);
+}
+
+/* Border Accent Animation - Colored line slides in from left */
+.card-hover-effect:hover::before {
+  width: 100%;
+}
+
+/* Gradient Shift - Background transitions to a subtle complementary gradient */
+.card-hover-effect:hover.light-mode {
+  background-image: linear-gradient(to right, rgba(249, 250, 251, 0.8), rgba(243, 244, 246, 0.8)) !important;
+}
+
+.card-hover-effect:hover.dark-mode {
+  background-image: linear-gradient(to right, rgba(17, 24, 39, 0.7), rgba(31, 41, 55, 0.7)) !important;
+}
+
+/* Highlight State - Background brightens while text becomes more vibrant */
+.card-hover-effect:hover .text-github-text {
+  color: #000 !important;
+  font-weight: 500;
+}
+
+.dark-mode .card-hover-effect:hover .text-github-text {
+  color: #fff !important;
+  font-weight: 500;
+}
+
+/* Micro-interactions - Small icon animations */
+.card-hover-effect:hover svg {
+  transform: scale(1.15);
+  transition: transform 0.3s ease;
+}
+
+/* SHIMMER (SKELETON) ANIMATION FOR CARD LOADING */
+@keyframes shimmer {
+  0% {
+    background-position: -300px 0;
+  }
+  100% {
+    background-position: 300px 0;
+  }
+}
+
+.skeleton-shimmer {
+  position: relative;
+  overflow: hidden;
+  background: none;
+}
+
+.skeleton-shimmer .shimmer-bar {
+  position: relative;
+  background: linear-gradient(
+    90deg,
+    var(--input, #eaeceb) 2%,
+    #edf1f5 18%,
+    var(--input, #eaeceb) 33%
+  );
+  background-size: 800px 104px;
+  animation: shimmer 1.5s infinite linear;
+  opacity: 0.8;
+}
+
+.dark .skeleton-shimmer .shimmer-bar,
+.dark-mode .skeleton-shimmer .shimmer-bar {
+  background: linear-gradient(
+    90deg,
+    #282e39 2%,
+    #23272d 18%,
+    #282e39 33%
+  );
+  background-size: 800px 104px;
+  animation: shimmer 1.5s infinite linear;
+  opacity: 0.6;
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c8cd;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a7ac;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb {
+  background: #30363d;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb:hover {
+  background: #4a515a;
+}
+
+/* Hide scrollbar in Firefox but keep functionality */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c1c8cd transparent;
+}
+
+.dark-mode * {
+  scrollbar-color: #30363d transparent;
+}

@@ -1,0 +1,10 @@
+---
+title: Code Execution Simulator
+description: Simulate code execution to identify potential crash points, failures, or unexpected return values.
+tags:
+  - review
+  - troubleshoot
+  - error
+category: Vibe Coding
+---
+Can you simulate how this code would run and point out anything that might crash, fail, or return something weird? 

@@ -1,0 +1,10 @@
+---
+title: Bug Label Slack Notifier
+description: Set up a workflow that sends formatted Slack notifications for open bug-labeled issues.
+tags:
+  - workflow
+  - automation
+  - security
+category: Development
+---
+Set up a workflow that pulls all open issues with the bug label and sends a Slack message with a summary (title, link, priority label if any). Format it nicely using a Slack webhook. 

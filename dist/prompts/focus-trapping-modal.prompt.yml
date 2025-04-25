@@ -1,0 +1,10 @@
+---
+title: Focus-Trapping Modal
+description: Design a modal that traps focus, handles keyboard and click interactions, and works in both light and dark modes.
+tags:
+  - code
+  - scaffold
+  - clarity
+category: Vibe Coding
+---
+Help me design a modal that traps focus, handles close via ESC key and clicking outside, and works in both light and dark mode. 

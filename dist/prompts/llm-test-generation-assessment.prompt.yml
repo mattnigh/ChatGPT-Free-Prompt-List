@@ -1,0 +1,10 @@
+---
+title: LLM Test Generation Effectiveness Analysis
+description: Analyze current research and practical experiences with using LLMs for automated test generation across different testing levels.
+tags:
+  - research
+  - testing
+  - ai
+category: Deep Research
+---
+Summarize the latest thinking on using LLMs for test generation (unit, integration, end-to-end). Include papers, blogs, or vendor claims about effectiveness, common failure modes (e.g., brittle tests, hallucinated mocks), and whether teams actually save time. Bonus if you can pull GitHub discussions or forum debates on the topic. 

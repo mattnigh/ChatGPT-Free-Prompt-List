@@ -1,0 +1,10 @@
+---
+title: Matrix Build with Caching
+description: Set up a GitHub Action that tests a project across multiple Node.js versions with dependency caching.
+tags:
+  - workflow
+  - ci
+  - optimization
+category: Development
+---
+Create a matrix build GitHub Action that tests my Node.js project on Node 16, 18, and 20. Include steps to cache dependencies for faster builds. 

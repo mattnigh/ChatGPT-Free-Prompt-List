@@ -1,0 +1,10 @@
+---
+title: Analytics Build vs. Buy Decision Framework
+description: Explore the tradeoffs between building or buying analytics tooling for mid-stage SaaS companies, with multiple stakeholder perspectives.
+tags:
+  - research
+  - tradeoffs
+  - strategy
+category: Deep Research
+---
+Explore the pros and cons of building versus buying analytics tooling (e.g., Segment, Mixpanel, internal dashboards) for a mid-stage SaaS company. Include technical debt, time-to-value, customization tradeoffs, and perspectives from engineering, data, and product teams. Include recent blog posts, conference talks, or postmortems. 

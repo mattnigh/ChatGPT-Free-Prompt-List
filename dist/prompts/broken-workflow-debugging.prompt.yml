@@ -1,0 +1,10 @@
+---
+title: Broken Workflow Debugging
+description: Analyze a broken GitHub Actions workflow line by line to identify and fix problems.
+tags:
+  - debug
+  - workflow
+  - explain
+category: Development
+---
+Here's a broken GitHub Actions workflow: "[paste YAML]". Can you walk through it line by line, explain what it does, and help me fix any mistakes? 

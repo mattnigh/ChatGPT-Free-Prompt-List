@@ -1,0 +1,12 @@
+---
+title: Performance Anomaly Categorizer
+description: Identify and categorize outliers in performance data with explanations and risk assessment
+tags:
+  - analyze
+  - troubleshoot
+  - validate
+  - risks
+  - insights
+category: Analysis/Data
+---
+Act as a program analyst identifying performance issues. Find any outliers or anomalies in this dataset and explain what might be causing them. Group them into categories: likely explainable, needs investigation, or potential risk. Analyze the following: [PASTE HERE: raw metric table, error rates, or latency logs]. 

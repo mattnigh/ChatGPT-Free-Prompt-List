@@ -1,0 +1,12 @@
+---
+title: Leadership Risk Heatmap Generator
+description: Create visual risk assessments from metric data with monitoring recommendations
+tags:
+  - risks
+  - analyze
+  - leadership
+  - visualization
+  - strategy
+category: Analysis/Data
+---
+Act as a TPM preparing for a leadership review. Use the following dataset to generate a risk heatmap. Highlight areas of low, medium, and high risk across key metrics, and suggest what should be monitored closely in the next quarter. Use this data: [PASTE HERE: metric table, initiative tracker, or milestone success rates]. 

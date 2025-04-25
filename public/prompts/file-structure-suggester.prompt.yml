@@ -1,0 +1,8 @@
+---
+title: File Structure Suggester
+description: Suggest a better file structure or modular breakdown for code, using best practices in the stack.
+category: Vibe Coding
+tags:
+  - review
+---
+Suggest a better file structure or modular breakdown for this code: [paste code or describe file], using common best practices in this stack. 

@@ -1,0 +1,10 @@
+---
+title: Test YAML Resilience
+description: This is a test prompt with formatting issues: trailing spaces and unexpected characters at line end.  
+tags:
+  - test
+  - resilience: high
+  - formatting issues
+category: Development
+---
+Help me test the YAML parser resilience. This prompt intentionally has issues like unexpected scalar at node end. 

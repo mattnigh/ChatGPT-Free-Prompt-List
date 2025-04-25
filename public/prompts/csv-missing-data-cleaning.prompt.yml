@@ -1,0 +1,9 @@
+---
+title: CSV Missing Data Cleaning
+description: Identify columns with missing or inconsistent data in a CSV and suggest how to clean or fill them.
+category: Analysis/Data
+tags:
+  - clean
+  - validate
+---
+Here's a CSV file: [paste or upload]. Can you identify columns with missing or inconsistent data, and suggest how to clean or fill them?

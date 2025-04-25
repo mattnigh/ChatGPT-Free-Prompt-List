@@ -1,0 +1,10 @@
+---
+title: Time-Series Performance Analyzer
+description: Analyze system performance time-series data to identify patterns, anomalies, and potential root causes
+tags:
+  - analyze
+  - performance
+  - troubleshoot
+category: Analysis/Data
+---
+Act as a systems-aware explainer. Break down what this time-series data shows about system performance — include spikes, drops, trends, and what they may indicate. Give 2–3 hypotheses. Analyze this: [PASTE HERE: timestamped log, Grafana output, or CSV with time + value]. 

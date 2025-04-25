@@ -1,0 +1,13 @@
+---
+title: Villain Character Portrait
+description: Generate a dramatic character photo styling the subject in a costume inspired by a famous fictional villain while maintaining facial visibility.
+model: gpt-4
+modelParameters:
+  temperature: 0.7
+tags:
+  - portrait
+  - style
+  - humor
+category: Images
+---
+Generate a dramatic character photo use a photo of me and styling me in a costume inspired by a famous fictional villain (e.g., Doctor Doom) while omitting elements like masks to retain facial visibility. Modify the facial expression to convey a menacing, serious demeanor, embodying a theme of power or villainy. 

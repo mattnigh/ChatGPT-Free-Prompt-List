@@ -1,0 +1,10 @@
+---
+title: Responsive Layout Scaffold
+description: Create a responsive layout using CSS grid or flexbox that adapts from desktop columns to mobile stacking.
+tags:
+  - scaffold
+  - code
+  - shortcut
+category: Vibe Coding
+---
+I want to create a responsive layout using CSS grid or flexbox that supports (number) columns on desktop and stacks on mobile. Help me scaffold it. 

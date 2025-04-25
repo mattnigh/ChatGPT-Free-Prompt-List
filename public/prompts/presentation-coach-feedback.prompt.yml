@@ -1,0 +1,10 @@
+---
+title: Presentation Coach Feedback
+description: Act as a presentation coach and provide feedback on the main message per slide, redundant or off-topic slides, and suggestions to improve flow.
+tags:
+  - summary
+  - clarity
+  - documentation
+category: Documentation
+---
+Act as a presentation coach. Read this deck and give me 1) the main message per slide, 2) any slides that feel redundant or off-topic, and 3) suggestions to improve flow. [PASTE HERE: slide list, speaker notes, or deck outline.] 
