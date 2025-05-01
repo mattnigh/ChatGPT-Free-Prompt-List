@@ -6,7 +6,7 @@ import { promptManifestPlugin } from "./src/utils/promptManifestPlugin";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: mode === 'development' ? '/' : "/ChatGPT-Free-Prompt-List/", // Updated base path for production
+  base: mode === 'development' ? '/' : "/", // Updated base path for production
   server: {
     host: "::",
     port: 8080,
