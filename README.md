@@ -1,8 +1,9 @@
 # Promptbin -> ChatGPT/Copilot/Claude (AI) Free Prompt List
 
-## Project info
+- This is a passion project by @mattnigh.
+- Feel free to steal, scrape, and use the prompt files
 
-**URL**: https://lovable.dev/projects/cf0b72ae-f014-48bc-8e47-2a9585159aaf
+## Project info
 
 This tool was created to provide a centralized resource for prompt ideas that can help improve your interactions with ChatGPT and other AI assistants. Use these prompts to:
 
@@ -18,6 +19,14 @@ This codebase can serve as a foundation for creating your own custom prompt mana
 - Internal prompt libraries for your development team
 - Client-specific prompt collections for agencies
 - Personal collections of your most effective prompts
+
+## Deployment
+
+To deploy your own version:
+
+1. Fork this repository
+2. Update the `base` path in `vite.config.ts` to match your GitHub Pages URL structure
+3. Enable GitHub Pages in your repository settings
 
 ## Installation & Usage
 
@@ -55,14 +64,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## Deployment
-
-To deploy your own version:
-
-1. Fork this repository
-2. Update the `base` path in `vite.config.ts` to match your GitHub Pages URL structure
-3. Enable GitHub Pages in your repository settings
 
 ## Creator
 
