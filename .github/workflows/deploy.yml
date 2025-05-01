@@ -33,8 +33,6 @@ jobs:
       
       - name: Build project
         run: npm run build
-        env:
-          VITE_BASE_URL: /ChatGPT-Free-Prompt-List/
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
