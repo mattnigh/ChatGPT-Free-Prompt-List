@@ -1,20 +1,18 @@
-# Promptbin -> ChatGPT/Copilot/Claude (AI) Free Prompt List
+# PromptBin: Free Prompt List for AI tools
+
+The site -> [www.prompt-bin.com](https://www.prompt-bin.com/)
 
 - This is a passion project by @mattnigh.
 - Feel free to steal, scrape, and use the prompt files
+- MIT License, 2025 by [Matt Nigh](https://www.mattnigh.net/)
 
 ## Project info
 
-This tool was created to provide a centralized resource for prompt ideas that can help improve your interactions with ChatGPT and other AI assistants. Use these prompts to:
-
-- Spark creativity in your AI conversations
-- Guide AI to produce more specific, useful outputs
-- Save time with pre-crafted prompting strategies
-- Explore different prompt techniques and approaches
+I use AI tools all the time and wished there was a great way to manage snippets for the (many) LLMs and Agents in my life. I made this tool (mostly) vibe-coding via Lovable for initial scaffolding, and Agent Mode in VS Code for functionality.
 
 ## Fork it! For Teams & Developers
 
-This codebase can serve as a foundation for creating your own custom prompt manager. Simply fork or clone it for your own copy, and consider using it for:
+Feel free to fork and steal this for whatever. This codebase can serve as a foundation for creating your own custom prompt manager. Simply fork or clone it for your own copy, and consider using it for:
 
 - Internal prompt libraries for your development team
 - Client-specific prompt collections for agencies
@@ -45,30 +43,3 @@ npm i
 # Start the development server
 npm run dev
 ```
-
-## Adding Your Own Prompts
-
-Prompts are stored as YAML files in the `/public/prompts` directory. Each prompt follows a specific format:
-
-1. Create a new file in the `/public/prompts` directory with the naming convention `your-prompt-name.prompt.yml`
-2. Follow the YAML structure of existing prompts
-
-The application will automatically detect and include new properly formatted prompt files.
-
-## Technologies
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## Creator
-
-Created by [Matt Nigh](https://www.mattnigh.net/)
-
----
-
-MIT License, 2025 + Copyright -> Matt Nigh
